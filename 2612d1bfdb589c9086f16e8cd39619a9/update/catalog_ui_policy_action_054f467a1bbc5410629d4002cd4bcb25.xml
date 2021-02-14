@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="Book a desk">0e0ec65cdb6810d086f16e8cd396195b</catalog_item>
+        <catalog_variable>IO:2ad8ee281bb8d810629d4002cd4bcbc7</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-19 13:26:10</sys_created_on>
+        <sys_id>054f467a1bbc5410629d4002cd4bcb25</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desk_layout</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_054f467a1bbc5410629d4002cd4bcb25</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-19 13:26:10</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Display Berlin button">6d2fc27a1bbc5410629d4002cd4bcb1d</ui_policy>
+        <variable>desk_layout</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_module">
+    <sys_app_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="MyDesk">ae56d137db989c9086f16e8cd39619d9</application>
+        <assessment/>
+        <device_type/>
+        <filter/>
+        <hint>Create a new record for a desk</hint>
+        <homepage/>
+        <image/>
+        <link_type>NEW</link_type>
+        <map_page/>
+        <mobile_title>Add new desk</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>x_ipegh_mydesk_desk</name>
+        <order>70</order>
+        <override_menu_roles>true</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_ipegh_mydesk.inventory</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-08 10:32:50</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>73edf4d31b649410629d4002cd4bcbcf</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Add new desk</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_app_module_73edf4d31b649410629d4002cd4bcbcf</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-08 10:41:01</sys_updated_on>
+        <timeline_page/>
+        <title>Add new desk</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+</record_update>

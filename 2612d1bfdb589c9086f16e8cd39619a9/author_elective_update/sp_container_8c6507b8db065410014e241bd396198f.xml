@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Office Management Home - Container 2</name>
+        <order>2</order>
+        <sp_page display_value="office_management_home">b87c42061bc99050629d4002cd4bcb1b</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-14 15:32:58</sys_created_on>
+        <sys_id>8c6507b8db065410014e241bd396198f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office Management Home - Container 2</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_container_8c6507b8db065410014e241bd396198f</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-14 15:32:58</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_container_8c6507b8db065410014e241bd396198f</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Office Management Home - Container 2</name><order>2</order><sp_page display_value="office_management_home">b87c42061bc99050629d4002cd4bcb1b</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-07-14 15:32:58</sys_created_on><sys_id>8c6507b8db065410014e241bd396198f</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Office Management Home - Container 2</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>sp_container_8c6507b8db065410014e241bd396198f</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-07-14 15:32:58</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1370000311</payload_hash>
+        <record_name>Office Management Home - Container 2</record_name>
+        <reverted_from/>
+        <source>b8ab76fcdbc25410014e241bd3961927</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-14 15:32:58</sys_created_on>
+        <sys_id>086507b8db065410014e241bd3961992</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1734df527080000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-14 15:32:58</sys_updated_on>
+        <type>Container</type>
+        <update_guid>006507b8be06541028a7987e93a1c892</update_guid>
+        <update_guid_history>006507b8be06541028a7987e93a1c892:1370000311</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">6185c7b8db065410014e241bd3961937</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-14 15:33:37</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>5b41f416da8a45fbbebf7916a7e4dde1</sys_id>
+        <sys_metadata>8c6507b8db065410014e241bd396198f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office Management Home - Container 2</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_container_8c6507b8db065410014e241bd396198f</sys_update_name>
+        <sys_update_version display_value="sp_container_8c6507b8db065410014e241bd396198f">086507b8db065410014e241bd3961992</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-14 15:33:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

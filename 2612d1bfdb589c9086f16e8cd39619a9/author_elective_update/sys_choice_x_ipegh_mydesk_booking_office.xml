@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="office" table="x_ipegh_mydesk_booking" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>office</element>
+            <name>x_ipegh_mydesk_booking</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:54:30</sys_created_on>
+            <sys_id>35a4da822f1a20101f3faf5df699b635</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>office</sys_name>
+            <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_mydesk_booking_office</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-20 14:54:30</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>office</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Berlin</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_booking</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:54:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>482d27cfdb3cd05086f16e8cd3961924</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-20 14:54:30</sys_updated_on>
+            <value>berlin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>office</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_booking</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:54:30</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>882d27cfdb3cd05086f16e8cd3961925</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-20 14:54:30</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

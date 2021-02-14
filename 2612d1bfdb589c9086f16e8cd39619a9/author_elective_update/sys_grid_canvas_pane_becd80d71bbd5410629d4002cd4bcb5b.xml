@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Today">7acd80d71bbd5410629d4002cd4bcb2a</grid_canvas>
+        <height>7</height>
+        <portal_widget display_value="Created 09 Jul, 2020 12:20:00">6ecdcc971bbd5410629d4002cd4bcb62</portal_widget>
+        <posx>0</posx>
+        <posy>9</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-09 10:20:01</sys_created_on>
+        <sys_id>becd80d71bbd5410629d4002cd4bcb5b</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>7acd80d71bbd5410629d4002cd4bcb2a</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_becd80d71bbd5410629d4002cd4bcb5b</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-09 10:26:05</sys_updated_on>
+        <width>6</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sys_grid_canvas_pane_becd80d71bbd5410629d4002cd4bcb5b</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Today">7acd80d71bbd5410629d4002cd4bcb2a</grid_canvas><height>7</height><portal_widget display_value="Created 09 Jul, 2020 12:20:00">6ecdcc971bbd5410629d4002cd4bcb62</portal_widget><posx>0</posx><posy>9</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-07-09 10:20:01</sys_created_on><sys_id>becd80d71bbd5410629d4002cd4bcb5b</sys_id><sys_mod_count>9</sys_mod_count><sys_name>7acd80d71bbd5410629d4002cd4bcb2a</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>sys_grid_canvas_pane_becd80d71bbd5410629d4002cd4bcb5b</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-07-09 10:26:05</sys_updated_on><width>6</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-208209038</payload_hash>
+        <record_name>7acd80d71bbd5410629d4002cd4bcb2a</record_name>
+        <reverted_from/>
+        <source>4695444f1b7d1410629d4002cd4bcba3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-09 10:26:05</sys_created_on>
+        <sys_id>372fc05b1bbd5410629d4002cd4bcbbd</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>173331c64c00000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-09 10:26:05</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>bb2fc05b98bd541041492d95c50178bc</update_guid>
+        <update_guid_history>bb2fc05b98bd541041492d95c50178bc:-208209038,392f405b6abd5410c2a863d820d82b99:-154148339,b52f405bd2bd5410bcfaea21326cbe97:361261011,352f405b39bd5410e9638900557acd95:618965686,1bbe481bd3bd54101b7c4013b894e563:-208209038,e1be081b45bd5410aad1db4bffaf9e60:361261011,83ae841bfebd5410bcca2fa8c560eb75:-154148339,03ae841bfebd5410b9248d68bac6f973:361261011,8fae841b53bd54101f0eb74778733570:618965686,3acd80d744bd5410df4d2b09bfa7985c:-208209038</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-09 10:26:42</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>024812d760ab4164800c23bd5474bcc9</sys_id>
+        <sys_metadata>becd80d71bbd5410629d4002cd4bcb5b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>7acd80d71bbd5410629d4002cd4bcb2a</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_becd80d71bbd5410629d4002cd4bcb5b</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_becd80d71bbd5410629d4002cd4bcb5b">372fc05b1bbd5410629d4002cd4bcbbd</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-09 10:26:42</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_carousel">
+    <sp_instance_carousel action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <interval>5000</interval>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">ca06769adba8901086f16e8cd3961973</sp_column>
+        <sp_widget display_value="Slick Carousel">e296d7614fa15300ab7100f18110c75f</sp_widget>
+        <sys_class_name>sp_instance_carousel</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 16:55:46</sys_created_on>
+        <sys_id>0209b69edba8901086f16e8cd396195f</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>MyDesk carousel</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_carousel_0209b69edba8901086f16e8cd396195f</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:06:03</sys_updated_on>
+        <title>MyDesk carousel</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"header": {
+		"value": "",
+		"displayValue": ""
+	},
+	"header_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"carousel_type": {
+		"value": "adaptive-height",
+		"displayValue": "adaptive-height"
+	},
+	"slides_to_show": {
+		"value": "1",
+		"displayValue": "1"
+	},
+	"autoplay": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_dots": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_border": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]></widget_parameters>
+    </sp_instance_carousel>
+    <sys_translated_text action="DELETE" query="documentkey=0209b69edba8901086f16e8cd396195f"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_instance_carousel_0209b69edba8901086f16e8cd396195f</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_carousel"&gt;&lt;sp_instance_carousel action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;interval&gt;5000&lt;/interval&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;ca06769adba8901086f16e8cd3961973&lt;/sp_column&gt;&lt;sp_widget display_value="Slick Carousel"&gt;e296d7614fa15300ab7100f18110c75f&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_carousel&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-05 16:55:46&lt;/sys_created_on&gt;&lt;sys_id&gt;0209b69edba8901086f16e8cd396195f&lt;/sys_id&gt;&lt;sys_mod_count&gt;7&lt;/sys_mod_count&gt;&lt;sys_name&gt;MyDesk carousel&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_carousel_0209b69edba8901086f16e8cd396195f&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-05 17:06:03&lt;/sys_updated_on&gt;&lt;title&gt;MyDesk carousel&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"header": {
+		"value": "",
+		"displayValue": ""
+	},
+	"header_color": {
+		"value": "",
+		"displayValue": ""
+	},
+	"carousel_type": {
+		"value": "adaptive-height",
+		"displayValue": "adaptive-height"
+	},
+	"slides_to_show": {
+		"value": "1",
+		"displayValue": "1"
+	},
+	"autoplay": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_dots": {
+		"value": "true",
+		"displayValue": "true"
+	},
+	"display_border": {
+		"value": "true",
+		"displayValue": "true"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_carousel&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0209b69edba8901086f16e8cd396195f"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>584501821</payload_hash>
+        <record_name>MyDesk carousel</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 17:06:03</sys_created_on>
+        <sys_id>f46b7e12dbe8901086f16e8cd3961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e5cd35750000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:06:03</sys_updated_on>
+        <type>Instance of Carousel</type>
+        <update_guid>7c6b7e12eae890102f199182cac9bd0f</update_guid>
+        <update_guid_history>7c6b7e12eae890102f199182cac9bd0f:584501821,365b7e127ae8901004d08a8351ef6979:-613926371,474b7e1256e89010cda15d424b39880b:-1156368803,07eab612c4e8901040323bd07f4fec18:2115950541,ceba3ade64a89010954d9e409456343b:-1799638803,cd59ba9e6ba89010462b3c6847143ec2:-1214336589,1039369eeba89010693c686ca4b84b80:1651296264,8609b69e48a89010425d7ba957cbe760:-1851885131</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a38cf652dbe8901086f16e8cd396196c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 17:11:09</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_carousel">sp_instance_carousel</sys_db_object>
+        <sys_id>05e709351375494e803b2d09ae287d31</sys_id>
+        <sys_metadata>0209b69edba8901086f16e8cd396195f</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MyDesk carousel</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_instance_carousel_0209b69edba8901086f16e8cd396195f</sys_update_name>
+        <sys_update_version display_value="sp_instance_carousel_0209b69edba8901086f16e8cd396195f">f46b7e12dbe8901086f16e8cd3961910</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:11:09</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

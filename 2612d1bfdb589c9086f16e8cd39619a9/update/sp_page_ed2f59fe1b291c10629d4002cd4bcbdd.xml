@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>body {&#13;
+	background-image:url("prs_stave5.png");&#13;
+	background-size:cover;&#13;
+}&#13;
+&#13;
+.table, .v60b49709dbd42300de1cfe1b689619a2, .panel-heading {&#13;
+	color: #e80033;&#13;
+    background-color: rgba(3, 15, 71, .7) !important;&#13;
+}&#13;
+&#13;
+.instructions {&#13;
+	color: rgb(241, 190, 175);&#13;
+    background-color: rgba(3, 15, 71, .7) !important;&#13;
+}&#13;
+&#13;
+#prs_active_bookings, .tab-content, .panel, .panel-body {&#13;
+  background-color: rgba(3, 15, 71, .7);&#13;
+  color: #e80033;&#13;
+  border: 1px solid #e80033;&#13;
+}&#13;
+&#13;
+.panel-title, .panel-footer {&#13;
+  background-color: rgba(3, 15, 71, .7);&#13;
+  color: #e80033;&#13;
+  border: none;&#13;
+}&#13;
+&#13;
+.nav-tabs &gt; li.active &gt; a, .nav-tabs &gt; li.active &gt; a:hover, .nav-tabs &gt; li.active &gt; a:focus {&#13;
+    color: white !important;&#13;
+    background-color: #e80033 !important;&#13;
+    border: 1px solid white;&#13;
+    cursor: default;&#13;
+    text-decoration: none !important;&#13;
+}&#13;
+&#13;
+.nav-tabs &gt; li &gt; a {&#13;
+    color: #e80033;&#13;
+    background-color: rgba(3, 15, 71, .7);&#13;
+    border: 1px solid #e80033;&#13;
+}&#13;
+&#13;
+.nav-tabs &gt; li &gt; a:hover {&#13;
+  background-color: #e80033 !important;&#13;
+  color: white !important;&#13;
+}&#13;
+&#13;
+.th-title {&#13;
+  color: #e80033 !important;&#13;
+}&#13;
+&#13;
+.b-t {&#13;
+    border-top: 1px solid #e80033;&#13;
+}&#13;
+&#13;
+.nav-tabs {&#13;
+    border-bottom: 1px solid #e80033;&#13;
+}&#13;
+&#13;
+.btn-default {&#13;
+    color: white;&#13;
+    background-color: #e80033;&#13;
+    border-color: white;&#13;
+}&#13;
+&#13;
+.btn-default:active, .btn-default.active, .open &gt; .btn-default.dropdown-toggle {&#13;
+    color: #e80033;&#13;
+    background-color: white;&#13;
+    border-color: white;&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>prs_manage_my_bookings</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 16:42:47</sys_created_on>
+        <sys_id>ed2f59fe1b291c10629d4002cd4bcbdd</sys_id>
+        <sys_mod_count>102</sys_mod_count>
+        <sys_name>prs_manage_my_bookings</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_page_ed2f59fe1b291c10629d4002cd4bcbdd</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-02 15:40:28</sys_updated_on>
+        <title>PRS Manage bookings</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=ed2f59fe1b291c10629d4002cd4bcbdd"/>
+</record_update>

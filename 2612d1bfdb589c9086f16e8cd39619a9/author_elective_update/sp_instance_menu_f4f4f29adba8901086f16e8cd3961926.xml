@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu">
+    <sp_instance_menu action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>2</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">6e3a5354dbac10d086f16e8cd3961907</sp_column>
+        <sp_widget display_value="Single Icon Menu">5edf4c21cb21020000f8d856634c9cba</sp_widget>
+        <sys_class_name>sp_instance_menu</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 16:37:55</sys_created_on>
+        <sys_id>f4f4f29adba8901086f16e8cd3961926</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_menu_f4f4f29adba8901086f16e8cd3961926</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:38:04</sys_updated_on>
+        <title>test</title>
+        <url/>
+        <widget_parameters/>
+    </sp_instance_menu>
+    <sys_translated_text action="DELETE" query="documentkey=f4f4f29adba8901086f16e8cd3961926"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_instance_menu_f4f4f29adba8901086f16e8cd3961926</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_menu"><sp_instance_menu action="INSERT_OR_UPDATE"><active>true</active><class_name/><color>default</color><css/><glyph/><id/><order>2</order><roles/><short_description/><size>md</size><sp_column display_value="1">6e3a5354dbac10d086f16e8cd3961907</sp_column><sp_widget display_value="Single Icon Menu">5edf4c21cb21020000f8d856634c9cba</sp_widget><sys_class_name>sp_instance_menu</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-05-05 16:37:55</sys_created_on><sys_id>f4f4f29adba8901086f16e8cd3961926</sys_id><sys_mod_count>1</sys_mod_count><sys_name>test</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>sp_instance_menu_f4f4f29adba8901086f16e8cd3961926</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-05-05 16:38:04</sys_updated_on><title>test</title><url/><widget_parameters/></sp_instance_menu><sys_translated_text action="delete_multiple" query="documentkey=f4f4f29adba8901086f16e8cd3961926"/></record_update>]]></payload>
+        <payload_hash>-776470944</payload_hash>
+        <record_name>test</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 16:38:04</sys_created_on>
+        <sys_id>3af4329adba8901086f16e8cd39619e7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e5b397830000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:38:04</sys_updated_on>
+        <type>Instance with Menu</type>
+        <update_guid>bef4329af9a89010f8bbddaf6a0df1e6</update_guid>
+        <update_guid_history>bef4329af9a89010f8bbddaf6a0df1e6:-776470944,b0f4f29a43a89010169309453c134828:1107105377</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">4105b29adba8901086f16e8cd396197d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 16:38:13</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_menu">sp_instance_menu</sys_db_object>
+        <sys_id>0039625a46344329a5de5f6183dad549</sys_id>
+        <sys_metadata>f4f4f29adba8901086f16e8cd3961926</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>test</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_instance_menu_f4f4f29adba8901086f16e8cd3961926</sys_update_name>
+        <sys_update_version display_value="sp_instance_menu_f4f4f29adba8901086f16e8cd3961926">3af4329adba8901086f16e8cd39619e7</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 16:38:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

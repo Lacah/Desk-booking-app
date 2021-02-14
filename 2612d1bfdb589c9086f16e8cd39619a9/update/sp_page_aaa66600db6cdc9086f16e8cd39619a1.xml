@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>body {&#13;
+	background-image:url("mydesk2.jpg");&#13;
+	background-size:cover;&#13;
+}&#13;
+&#13;
+.sc-item-description a:link{&#13;
+	color: #E69B30;&#13;
+}&#13;
+&#13;
+.panel {&#13;
+    background-color: rgba(255, 255, 255, .85);&#13;
+  	color: #0d7695;&#13;
+}&#13;
+&#13;
+.wrapper-md {&#13;
+    background-color: rgba(255, 255, 255, 0);&#13;
+  	border: 0;&#13;
+  	&#13;
+}&#13;
+&#13;
+.alert-info-border {&#13;
+	background-color: rgba(255, 255, 255, .85);&#13;
+  	border-color: #ddd !important;&#13;
+  	border-radius: 4px;&#13;
+  	color: #0d7695;&#13;
+}&#13;
+&#13;
+.btn-block {&#13;
+	background-color: #05A88C;&#13;
+ 	border: 0px;&#13;
+  	transition: all 0.7s ease-in-out;&#13;
+  	line-height: 1.7;&#13;
+  	font-size: 24px;&#13;
+}&#13;
+&#13;
+.btn-block:hover {&#13;
+	transform: scale(1.1);&#13;
+}&#13;
+&#13;
+.bg-danger {&#13;
+	color: red;&#13;
+  	font-size: small;&#13;
+}&#13;
+</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>book_a_desk</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles/>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-28 15:49:10</sys_created_on>
+        <sys_id>aaa66600db6cdc9086f16e8cd39619a1</sys_id>
+        <sys_mod_count>56</sys_mod_count>
+        <sys_name>book_a_desk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_page_aaa66600db6cdc9086f16e8cd39619a1</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-12 14:28:45</sys_updated_on>
+        <title>Book a desk</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=aaa66600db6cdc9086f16e8cd39619a1"/>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.layout {
+	background-color: #0d7695;
+  border: none;
+  width: 50%;
+  position: absolute;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>london_desk_layout</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>London desk layout</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-19 13:22:14</sys_created_on>
+        <sys_id>0b6e023a1bbc5410629d4002cd4bcbb1</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>London desk layout</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_widget_0b6e023a1bbc5410629d4002cd4bcbb1</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-14 15:39:11</sys_updated_on>
+        <template><![CDATA[<div>
+<a href="javascript:void(0)" class="btn btn-primary layout" onClick="popup=window.open('/sys_attachment.do?sys_id=37860fb8db065410014e241bd3961945&view=true','popup','width=1280,height=720'); return false;">Check desk layout</a>
+</div>]]></template>
+    </sp_widget>
+</record_update>

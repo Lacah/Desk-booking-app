@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="">fec26506db81dc106ff762eb0b96190e</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-29 12:31:52</sys_created_on>
+        <sys_id>fec26506db81dc106ff762eb0b961910</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>fec26506db81dc106ff762eb0b96190e</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_embedded_help_role_fec26506db81dc106ff762eb0b961910</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-29 12:31:52</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

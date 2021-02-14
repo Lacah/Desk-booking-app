@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
+        <grid_canvas display_value="PA PRS desk booking sys - New Tab">203b2a221b39d010629d4002cd4bcb8a</grid_canvas>
+        <height>3</height>
+        <portal_widget display_value="Created 2020-07-07 07:43:27">dae67e2e1b39d010629d4002cd4bcb60</portal_widget>
+        <posx>9</posx>
+        <posy>6</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 14:43:27</sys_created_on>
+        <sys_id>96e6fe6e1b39d010629d4002cd4bcb1d</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>203b2a221b39d010629d4002cd4bcb8a</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_96e6fe6e1b39d010629d4002cd4bcb1d</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:03:17</sys_updated_on>
+        <width>1</width>
+    </sys_grid_canvas_pane>
+</record_update>

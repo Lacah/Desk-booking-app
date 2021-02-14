@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_script_include">
+    <sys_script_include action="DELETE">
+        <access>public</access>
+        <active>true</active>
+        <api_name>x_ipegh_mydesk.showFreeDesks</api_name>
+        <caller_access/>
+        <client_callable>true</client_callable>
+        <description/>
+        <name>showFreeDesks</name>
+        <script><![CDATA[function showFreeDesks() {
+	var resDesks = [];
+	var startdt = new GlideDate();
+//	startdt.setValue(recProd.variables.booking_from.toString());
+	startdt.setValue('2020-04-30');
+	var enddt = new GlideDate();
+//	enddt.setValue(recProd.variables.booking_till.toString());
+	enddt.setValue('2020-05-07');
+//	var fl = recProd.variables.choose_floor;
+	var fl = '1st_floor';
+	var bGR = new GlideRecord('x_ipegh_mydesk_booking');
+	bGR.addActiveQuery();
+	bGR.addQuery('booking_from', '>=', startdt.getDisplayValue());
+	bGR.addQuery('booking_from', '<=', enddt.getDisplayValue());
+	bGR.query();
+	while (bGR.next()){
+		resDesks.push(bGR.desk.sys_id.toString());
+	}
+	var freeDesks = [];
+	var dGR = new GlideRecord('x_ipegh_mydesk_desk');
+	dGR.addQuery('sys_id','NOT IN',resDesks.join());
+	dGR.addQuery('floor',fl);
+	dGR.orderBy('name');
+	dGR.query();
+	while (dGR.next()){
+	freeDesks.push(dGR.name.toString());
+	}
+	freeDesks.sort();
+	freeDesks.toString();
+	return 'sys_idIN' + freeDesks;
+}]]></script>
+        <sys_class_name>sys_script_include</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-06 16:35:25</sys_created_on>
+        <sys_id>816d3326db6cd01086f16e8cd396197e</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>showFreeDesks</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_script_include_816d3326db6cd01086f16e8cd396197e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-06 17:50:56</sys_updated_on>
+    </sys_script_include>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sys_script_include_816d3326db6cd01086f16e8cd396197e</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_script_include"&gt;&lt;sys_script_include action="INSERT_OR_UPDATE"&gt;&lt;access&gt;public&lt;/access&gt;&lt;active&gt;true&lt;/active&gt;&lt;api_name&gt;x_ipegh_mydesk.showFreeDesks&lt;/api_name&gt;&lt;caller_access/&gt;&lt;client_callable&gt;true&lt;/client_callable&gt;&lt;description/&gt;&lt;name&gt;showFreeDesks&lt;/name&gt;&lt;script&gt;&lt;![CDATA[function showFreeDesks() {
+	var resDesks = [];
+	var startdt = new GlideDate();
+//	startdt.setValue(recProd.variables.booking_from.toString());
+	startdt.setValue('2020-04-30');
+	var enddt = new GlideDate();
+//	enddt.setValue(recProd.variables.booking_till.toString());
+	enddt.setValue('2020-05-07');
+//	var fl = recProd.variables.choose_floor;
+	var fl = '1st_floor';
+	var bGR = new GlideRecord('x_ipegh_mydesk_booking');
+	bGR.addActiveQuery();
+	bGR.addQuery('booking_from', '&gt;=', startdt.getDisplayValue());
+	bGR.addQuery('booking_from', '&lt;=', enddt.getDisplayValue());
+	bGR.query();
+	while (bGR.next()){
+		resDesks.push(bGR.desk.sys_id.toString());
+	}
+	var freeDesks = [];
+	var dGR = new GlideRecord('x_ipegh_mydesk_desk');
+	dGR.addQuery('sys_id','NOT IN',resDesks.join());
+	dGR.addQuery('floor',fl);
+	dGR.orderBy('name');
+	dGR.query();
+	while (dGR.next()){
+	freeDesks.push(dGR.name.toString());
+	}
+	freeDesks.sort();
+	freeDesks.toString();
+	return 'sys_idIN' + freeDesks;
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_include&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-06 16:35:25&lt;/sys_created_on&gt;&lt;sys_id&gt;816d3326db6cd01086f16e8cd396197e&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;showFreeDesks&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy&gt;read&lt;/sys_policy&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_include_816d3326db6cd01086f16e8cd396197e&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-06 17:50:56&lt;/sys_updated_on&gt;&lt;/sys_script_include&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1869896454</payload_hash>
+        <record_name>showFreeDesks</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-06 17:50:56</sys_created_on>
+        <sys_id>c84f8836dbacd01086f16e8cd3961903</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171eb1ca93e0000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-06 17:50:56</sys_updated_on>
+        <type>Script Include</type>
+        <update_guid>404f883620acd010a0896659ec93af03</update_guid>
+        <update_guid_history>404f883620acd010a0896659ec93af03:-1869896454,060f84f288acd0100022102bedd6c272:1213619535,b04d40b2f0acd010f3e978d6f012969c:1744792340,51ebc0feb26cd010d19cc7ba23adfc76:-475021859,1ff804fe656cd0100ecf54cedab4adfc:263168434,41b800fe1b6cd010e3680fe64501d605:997705545,2a1584faeb6cd0103565e40329d7baa0:-66455760,d1e3083aaf6cd010eb56da9d5dcbdd39:-2106329503,e1620cb6386cd010da2f04c2f83b88f8:-172898670,a02048b6896cd01015e863af2249b3e5:-610217895,447fff66c46cd0104a5cbd75f348aef7:1416506088,75fd3ba2566cd01005105d2d8be17c90:442847194</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-08 11:02:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_include">sys_script_include</sys_db_object>
+        <sys_id>be4466f4f6ec439c9e4a72f513cbe110</sys_id>
+        <sys_metadata>816d3326db6cd01086f16e8cd396197e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>showFreeDesks</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sys_script_include_816d3326db6cd01086f16e8cd396197e</sys_update_name>
+        <sys_update_version display_value="sys_script_include_816d3326db6cd01086f16e8cd396197e">c84f8836dbacd01086f16e8cd3961903</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-08 11:02:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

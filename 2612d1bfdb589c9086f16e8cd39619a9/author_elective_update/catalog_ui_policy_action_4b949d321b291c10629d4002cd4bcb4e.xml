@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Copy of Book a desk">e694d5321b291c10629d4002cd4bcb87</catalog_item>
+        <catalog_variable>IO:66945d321b291c10629d4002cd4bcbc6</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:56:45</sys_created_on>
+        <sys_id>4b949d321b291c10629d4002cd4bcb4e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desk_layout</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_4b949d321b291c10629d4002cd4bcb4e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:56:45</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Display Berlin button">cf949d321b291c10629d4002cd4bcb4b</ui_policy>
+        <variable>desk_layout</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>catalog_ui_policy_action_4b949d321b291c10629d4002cd4bcb4e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Copy of Book a desk">e694d5321b291c10629d4002cd4bcb87</catalog_item><catalog_variable>IO:66945d321b291c10629d4002cd4bcbc6</catalog_variable><cleared>false</cleared><disabled>ignore</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-06-25 15:56:45</sys_created_on><sys_id>4b949d321b291c10629d4002cd4bcb4e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>desk_layout</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>catalog_ui_policy_action_4b949d321b291c10629d4002cd4bcb4e</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-06-25 15:56:45</sys_updated_on><table/><ui_policy display_value="Display Berlin button">cf949d321b291c10629d4002cd4bcb4b</ui_policy><variable>desk_layout</variable><variable_set/><visible>true</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>982581132</payload_hash>
+        <record_name>desk_layout</record_name>
+        <reverted_from/>
+        <source>02de1a89db49985086f16e8cd3961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:56:45</sys_created_on>
+        <sys_id>03949d321b291c10629d4002cd4bcb51</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ec3216fa0000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:56:45</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>0b949d3292291c1005752dca4398d850</update_guid>
+        <update_guid_history>0b949d3292291c1005752dca4398d850:982581132</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">a84591b21b291c10629d4002cd4bcb05</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:59:34</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>4a687538cd0740adb04b123d79f5e3f1</sys_id>
+        <sys_metadata>4b949d321b291c10629d4002cd4bcb4e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desk_layout</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_4b949d321b291c10629d4002cd4bcb4e</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_4b949d321b291c10629d4002cd4bcb4e">03949d321b291c10629d4002cd4bcb51</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:59:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

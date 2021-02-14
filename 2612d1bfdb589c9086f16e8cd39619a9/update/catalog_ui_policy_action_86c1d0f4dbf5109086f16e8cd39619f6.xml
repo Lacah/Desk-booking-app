@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="PRSfM Desk booking system">e694d5321b291c10629d4002cd4bcb87</catalog_item>
+        <catalog_variable>IO:72945d321b291c10629d4002cd4bcbe0</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>false</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-01 16:12:54</sys_created_on>
+        <sys_id>86c1d0f4dbf5109086f16e8cd39619f6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_86c1d0f4dbf5109086f16e8cd39619f6</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-01 16:12:54</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Block desk field">71719cb4dbf5109086f16e8cd3961949</ui_policy>
+        <variable>desk</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+</record_update>

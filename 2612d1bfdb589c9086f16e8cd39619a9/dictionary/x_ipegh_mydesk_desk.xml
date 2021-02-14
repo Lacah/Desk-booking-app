@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Desk" max_length="40" name="x_ipegh_mydesk_desk" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" type="boolean"/>
+        <element attributes="encode_utf8=false" choice="1" label="Department" max_length="32" name="department" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Business &amp; Legal Affairs" value="business_and_legal_affairs"/>
+                <element inactive_on_update="false" label="Commercial Partnerships" value="commercial_partnerships"/>
+                <element inactive_on_update="false" label="Communications &amp; Marketing" value="communications_marketing"/>
+                <element inactive_on_update="false" label="Contracts Management" value="contracts_management"/>
+                <element inactive_on_update="false" label="Data &amp; Analytics" value="data_analytics"/>
+                <element inactive_on_update="false" label="Distribution &amp; Operations" value="distribution_operations"/>
+                <element inactive_on_update="false" label="Exec PA" value="exec_pa"/>
+                <element inactive_on_update="false" label="Exec Touchdown" value="exec_touchdown"/>
+                <element inactive="true" inactive_on_update="true" label="Facilities" value="facilities"/>
+                <element inactive_on_update="false" label="Finance" value="finance"/>
+                <element inactive_on_update="false" label="Foundation" value="foundation"/>
+                <element inactive_on_update="false" label="Hot Desks" value="hot_desks"/>
+                <element inactive_on_update="false" label="HR" value="hr"/>
+                <element inactive_on_update="false" label="International" value="international"/>
+                <element inactive_on_update="false" label="IT" value="it"/>
+                <element inactive_on_update="false" label="Licensing" value="licensing"/>
+                <element inactive_on_update="false" label="Members Fund" value="members_fund"/>
+                <element inactive_on_update="false" label="Membership" value="membership"/>
+                <element inactive="true" inactive_on_update="true" label="NMP" value="nmp"/>
+                <element inactive_on_update="false" label="ORACLE" value="oracle"/>
+                <element inactive_on_update="false" label="SOLAR" value="solar"/>
+                <element inactive_on_update="false" label="Strategic Partnerships" value="strategic_partnerships"/>
+                <element inactive_on_update="false" label="Strategy &amp; Office of CEO" value="strategy_and_office_of_ceo"/>
+                <element inactive_on_update="false" label="Transformation" value="transformation"/>
+            </choice>
+        </element>
+        <element label="Dog Friendly Desk" max_length="10" name="dog_desk" type="boolean"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" dependent="office" dependent_on_field="office" label="Floor" mandatory="true" max_length="40" name="floor" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="berlin" inactive="true" inactive_on_update="true" label="Basement" sequence="10" value="basement"/>
+                <element dependent_value="berlin" inactive="true" inactive_on_update="true" label="Ground floor" sequence="20" value="ground_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="1st floor" sequence="30" value="1st_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="2nd floor" sequence="40" value="2nd_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="3rd floor" sequence="50" value="3rd_floor"/>
+                <element dependent_value="berlin" inactive="true" inactive_on_update="true" label="4th floor" sequence="60" value="4th_floor"/>
+                <element dependent_value="berlin" inactive="true" inactive_on_update="true" label="5th floor" sequence="70" value="5th_floor"/>
+                <element dependent_value="berlin" inactive="true" inactive_on_update="true" label="6th floor" sequence="80" value="6th_floor"/>
+                <element dependent_value="london" inactive_on_update="false" label="8th floor" sequence="100" value="kx8"/>
+                <element dependent_value="streatham" inactive="true" inactive_on_update="true" label="Ground floor" sequence="1000" value="prs_str0"/>
+                <element dependent_value="streatham" inactive_on_update="false" label="1st floor" sequence="1100" value="prs_str1"/>
+                <element dependent_value="streatham" inactive_on_update="false" label="2nd floor" sequence="1200" value="prs_str2"/>
+                <element dependent_value="streatham" inactive_on_update="false" label="3rd floor" sequence="1300" value="prs_str3"/>
+                <element dependent_value="streatham" inactive_on_update="false" label="4th floor" sequence="1400" value="prs_str4"/>
+                <element dependent_value="streatham" inactive="true" inactive_on_update="true" label="5th floor" sequence="1500" value="prs_str5"/>
+                <element dependent_value="kx" inactive_on_update="false" label="8th floor" sequence="2000" value="prs_kx8"/>
+                <element dependent_value="kx" inactive_on_update="false" label="9th floor" sequence="2100" value="prs_kx9"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="ID" max_length="40" name="id" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Make" max_length="40" name="make" type="string"/>
+        <element attributes="edge_encryption_enabled=true" display="true" label="Name" max_length="40" name="name" type="string"/>
+        <element choice="1" label="Office" max_length="32" name="office" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Berlin" sequence="100" value="berlin"/>
+                <element inactive_on_update="false" label="London" sequence="200" value="london"/>
+                <element inactive_on_update="false" label="King's Cross" sequence="1000" value="kx"/>
+                <element inactive_on_update="false" label="Streatham" sequence="2000" value="streatham"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="3" default="rise_fall" label="Type" max_length="40" name="type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Rise &amp; fall" value="rise_fall"/>
+                <element inactive_on_update="false" label="Standard" value="standard"/>
+            </choice>
+        </element>
+        <element attributes="encode_utf8=false" label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="office"/>
+        </index>
+        <index name="index2">
+            <element name="department"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

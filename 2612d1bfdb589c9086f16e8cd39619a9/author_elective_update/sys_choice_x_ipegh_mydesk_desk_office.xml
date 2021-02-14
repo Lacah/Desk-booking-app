@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="office" table="x_ipegh_mydesk_desk" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>office</element>
+            <name>x_ipegh_mydesk_desk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:38:25</sys_created_on>
+            <sys_id>a1a49a822f1a20101f3faf5df699b67f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>office</sys_name>
+            <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_mydesk_desk_office</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-20 14:38:25</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>office</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Berlin</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:38:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1559a3cbdb3cd05086f16e8cd3961923</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-27 13:37:35</sys_updated_on>
+            <value>berlin</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>office</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>London</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>200</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:38:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9379e3cbdb3cd05086f16e8cd396198e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-27 13:37:38</sys_updated_on>
+            <value>london</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>office</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>King's Cross</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1000</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-27 13:37:19</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>667e975ddbc9d85086f16e8cd39619a8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-27 13:37:19</sys_updated_on>
+            <value>kx</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>office</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Streatham</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>2000</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-27 13:36:43</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a82e1b5ddbc9d85086f16e8cd3961995</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-27 13:36:43</sys_updated_on>
+            <value>streatham</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

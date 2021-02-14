@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script_client">
+    <sys_script_client action="DELETE">
+        <active>false</active>
+        <applies_extended>false</applies_extended>
+        <condition/>
+        <description/>
+        <field>active</field>
+        <global>true</global>
+        <isolate_script>true</isolate_script>
+        <messages/>
+        <name>Hide floors in sp view</name>
+        <order/>
+        <script><![CDATA[function onLoad() {
+   var view = getView();
+	if (view == 'sp'){
+  g_form.clearOptions('desk.floor');
+		g_form.addOption('desk.floor','1st_floor','1st floor');
+		g_form.addOption('desk.floor','2nd_floor','2nd floor');
+		g_form.addOption('desk.floor','3rd_floor','3rd floor');
+		g_form.addOption('desk.floor','4th_floor','4th floor');
+		g_form.addOption('desk.floor','5th_floor','5th floor');
+  }  
+   
+}]]></script>
+        <sys_class_name>sys_script_client</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-11 13:13:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>3d3eb094dbf4581086f16e8cd39619f4</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>Hide floors in sp view</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_script_client_3d3eb094dbf4581086f16e8cd39619f4</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-11 13:38:41</sys_updated_on>
+        <table>x_ipegh_mydesk_booking</table>
+        <type>onLoad</type>
+        <ui_type>10</ui_type>
+        <view/>
+    </sys_script_client>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sys_script_client_3d3eb094dbf4581086f16e8cd39619f4</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script_client"&gt;&lt;sys_script_client action="INSERT_OR_UPDATE"&gt;&lt;active&gt;false&lt;/active&gt;&lt;applies_extended&gt;false&lt;/applies_extended&gt;&lt;condition/&gt;&lt;description/&gt;&lt;field&gt;active&lt;/field&gt;&lt;global&gt;true&lt;/global&gt;&lt;isolate_script&gt;true&lt;/isolate_script&gt;&lt;messages/&gt;&lt;name&gt;Hide floors in sp view&lt;/name&gt;&lt;order/&gt;&lt;script&gt;&lt;![CDATA[function onLoad() {
+   var view = getView();
+	if (view == 'sp'){
+  g_form.clearOptions('desk.floor');
+		g_form.addOption('desk.floor','1st_floor','1st floor');
+		g_form.addOption('desk.floor','2nd_floor','2nd floor');
+		g_form.addOption('desk.floor','3rd_floor','3rd floor');
+		g_form.addOption('desk.floor','4th_floor','4th floor');
+		g_form.addOption('desk.floor','5th_floor','5th floor');
+  }  
+   
+}]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script_client&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-11 13:13:17&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;3d3eb094dbf4581086f16e8cd39619f4&lt;/sys_id&gt;&lt;sys_mod_count&gt;1&lt;/sys_mod_count&gt;&lt;sys_name&gt;Hide floors in sp view&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_client_3d3eb094dbf4581086f16e8cd39619f4&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-11 13:38:41&lt;/sys_updated_on&gt;&lt;table&gt;x_ipegh_mydesk_booking&lt;/table&gt;&lt;type&gt;onLoad&lt;/type&gt;&lt;ui_type&gt;10&lt;/ui_type&gt;&lt;view/&gt;&lt;/sys_script_client&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1784900143</payload_hash>
+        <record_name>Hide floors in sp view</record_name>
+        <reverted_from/>
+        <source>4056140c1b705810629d4002cd4bcb62</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-11 13:38:41</sys_created_on>
+        <sys_id>fd7541dcdbf4581086f16e8cd39619d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17203f5856a0000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-11 13:38:41</sys_updated_on>
+        <type>Client Script</type>
+        <update_guid>757541dc9af458105a10f93ab5d828d0</update_guid>
+        <update_guid_history>757541dc9af458105a10f93ab5d828d0:1784900143,edaff8d40bf4581047a5c01638accae2:1651215997</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-11 13:53:05</sys_created_on>
+        <sys_db_object display_value="" name="sys_script_client">sys_script_client</sys_db_object>
+        <sys_id>dd93b7b689e84472a74cef1c654043b1</sys_id>
+        <sys_metadata>3d3eb094dbf4581086f16e8cd39619f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hide floors in sp view</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent display_value="">3d1a0ed4db6810d086f16e8cd39619f4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sys_script_client_3d3eb094dbf4581086f16e8cd39619f4</sys_update_name>
+        <sys_update_version display_value="sys_script_client_3d3eb094dbf4581086f16e8cd39619f4">fd7541dcdbf4581086f16e8cd39619d0</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-11 13:53:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

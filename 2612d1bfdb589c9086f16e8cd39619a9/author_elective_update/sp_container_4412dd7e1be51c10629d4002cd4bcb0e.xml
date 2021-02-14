@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container">
+    <sp_container action="DELETE">
+        <background_color/>
+        <background_image/>
+        <background_style>default</background_style>
+        <bootstrap_alt>false</bootstrap_alt>
+        <class_name/>
+        <container_class_name/>
+        <name>Copy of MyDesk (2) - Container 3</name>
+        <order>3</order>
+        <sp_page display_value="copy_of_mydesk_2">0c12997e1be51c10629d4002cd4bcb7d</sp_page>
+        <subheader>false</subheader>
+        <sys_class_name>sp_container</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:45:37</sys_created_on>
+        <sys_id>4412dd7e1be51c10629d4002cd4bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of MyDesk (2) - Container 3</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_container_4412dd7e1be51c10629d4002cd4bcb0e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:45:37</sys_updated_on>
+        <title/>
+        <width>container</width>
+    </sp_container>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_container_4412dd7e1be51c10629d4002cd4bcb0e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_container"><sp_container action="INSERT_OR_UPDATE"><background_color/><background_image/><background_style>default</background_style><bootstrap_alt>false</bootstrap_alt><class_name/><container_class_name/><name>Copy of MyDesk (2) - Container 3</name><order>3</order><sp_page display_value="copy_of_mydesk_2">0c12997e1be51c10629d4002cd4bcb7d</sp_page><subheader>false</subheader><sys_class_name>sp_container</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-06-25 15:45:37</sys_created_on><sys_id>4412dd7e1be51c10629d4002cd4bcb0e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Copy of MyDesk (2) - Container 3</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>sp_container_4412dd7e1be51c10629d4002cd4bcb0e</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-06-25 15:45:37</sys_updated_on><title/><width>container</width></sp_container></record_update>]]></payload>
+        <payload_hash>1954706609</payload_hash>
+        <record_name>Copy of MyDesk (2) - Container 3</record_name>
+        <reverted_from/>
+        <source>02de1a89db49985086f16e8cd3961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:45:37</sys_created_on>
+        <sys_id>c812dd7e1be51c10629d4002cd4bcb0f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ec27e7060000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:45:37</sys_updated_on>
+        <type>Container</type>
+        <update_guid>c012dd7eb6e51c109d7447ab27b3600f</update_guid>
+        <update_guid_history>c012dd7eb6e51c109d7447ab27b3600f:1954706609</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">e23291be1be51c10629d4002cd4bcb9e</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:46:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_container">sp_container</sys_db_object>
+        <sys_id>22328ab2e384427085671f29137e33e4</sys_id>
+        <sys_metadata>4412dd7e1be51c10629d4002cd4bcb0e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Copy of MyDesk (2) - Container 3</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_container_4412dd7e1be51c10629d4002cd4bcb0e</sys_update_name>
+        <sys_update_version display_value="sp_container_4412dd7e1be51c10629d4002cd4bcb0e">c812dd7e1be51c10629d4002cd4bcb0f</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:46:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

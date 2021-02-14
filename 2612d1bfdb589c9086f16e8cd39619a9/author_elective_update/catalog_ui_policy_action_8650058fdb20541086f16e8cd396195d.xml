@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Book a desk">0e0ec65cdb6810d086f16e8cd396195b</catalog_item>
+        <catalog_variable>IO:3df9e2d4dbe810d086f16e8cd3961998</catalog_variable>
+        <cleared>false</cleared>
+        <disabled>false</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-07 16:04:32</sys_created_on>
+        <sys_id>8650058fdb20541086f16e8cd396195d</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>desk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_8650058fdb20541086f16e8cd396195d</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-07 16:06:56</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Desk read only if missing info">d0008d4fdb20541086f16e8cd39619ba</ui_policy>
+        <variable>desk</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>catalog_ui_policy_action_8650058fdb20541086f16e8cd396195d</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Book a desk">0e0ec65cdb6810d086f16e8cd396195b</catalog_item><catalog_variable>IO:3df9e2d4dbe810d086f16e8cd3961998</catalog_variable><cleared>false</cleared><disabled>false</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-05-07 16:04:32</sys_created_on><sys_id>8650058fdb20541086f16e8cd396195d</sys_id><sys_mod_count>1</sys_mod_count><sys_name>desk</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>catalog_ui_policy_action_8650058fdb20541086f16e8cd396195d</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-05-07 16:06:56</sys_updated_on><table/><ui_policy display_value="Desk read only if missing info">d0008d4fdb20541086f16e8cd39619ba</ui_policy><variable>desk</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-800963361</payload_hash>
+        <record_name>desk</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-07 16:06:56</sys_created_on>
+        <sys_id>2a01cd8fdb20541086f16e8cd3961940</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171efe3d0400000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-07 16:06:56</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>ae01cd8f8720541037ade0bd5dfed23f</update_guid>
+        <update_guid_history>ae01cd8f8720541037ade0bd5dfed23f:-800963361,5b70418fbd205410d314fb9e474b918c:557757741</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">da41c5cfdb20541086f16e8cd396198c</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-07 16:08:01</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>790d579c7cc445748c350649a79a72a9</sys_id>
+        <sys_metadata>8650058fdb20541086f16e8cd396195d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>desk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_8650058fdb20541086f16e8cd396195d</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_8650058fdb20541086f16e8cd396195d">2a01cd8fdb20541086f16e8cd3961940</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-07 16:08:01</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

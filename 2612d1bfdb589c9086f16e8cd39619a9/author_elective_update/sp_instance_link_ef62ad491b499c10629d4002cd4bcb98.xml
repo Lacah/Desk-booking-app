@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name>widgetSize</class_name>
+        <color>default</color>
+        <css/>
+        <glyph>building-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Manage desks, floors, etc.</short_description>
+        <size>md</size>
+        <sp_column display_value="4">21a9273edba8141086f16e8cd39619dc</sp_column>
+        <sp_page display_value="office_admin">6eb5a5491b499c10629d4002cd4bcb6a</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-26 09:56:22</sys_created_on>
+        <sys_id>ef62ad491b499c10629d4002cd4bcb98</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Office Administration</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_link_ef62ad491b499c10629d4002cd4bcb98</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-26 10:11:10</sys_updated_on>
+        <title>Office Administration</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=ef62ad491b499c10629d4002cd4bcb98"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_instance_link_ef62ad491b499c10629d4002cd4bcb98</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name&gt;widgetSize&lt;/class_name&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;building-o&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Manage desks, floors, etc.&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="4"&gt;21a9273edba8141086f16e8cd39619dc&lt;/sp_column&gt;&lt;sp_page display_value="office_admin"&gt;6eb5a5491b499c10629d4002cd4bcb6a&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-26 09:56:22&lt;/sys_created_on&gt;&lt;sys_id&gt;ef62ad491b499c10629d4002cd4bcb98&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Office Administration&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_ef62ad491b499c10629d4002cd4bcb98&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-26 10:11:10&lt;/sys_updated_on&gt;&lt;title&gt;Office Administration&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=ef62ad491b499c10629d4002cd4bcb98"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1131974578</payload_hash>
+        <record_name>Office Administration</record_name>
+        <reverted_from/>
+        <source>8ae336a41bf8d810629d4002cd4bcb1d</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-26 10:11:10</sys_created_on>
+        <sys_id>68d5210d1b499c10629d4002cd4bcbd7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1725076ed150000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-26 10:11:10</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>ecd5210d79499c107fb4e700dab6b5d6</update_guid>
+        <update_guid_history>ecd5210d79499c107fb4e700dab6b5d6:1131974578,dfa2a1894d499c1084bbbb5810b53dd5:2122427240,2762ad4943499c10bd8510e017c2e89a:-215378433</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">656906021bc99050629d4002cd4bcbb7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-29 15:20:33</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>408218e8ac4144f8950f6da161a46c04</sys_id>
+        <sys_metadata>ef62ad491b499c10629d4002cd4bcb98</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Office Administration</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_instance_link_ef62ad491b499c10629d4002cd4bcb98</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_ef62ad491b499c10629d4002cd4bcb98">68d5210d1b499c10629d4002cd4bcbd7</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-29 15:20:33</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

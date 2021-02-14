@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_list parent="" relationship="" sys_domain="global" table="x_ipegh_mydesk_booking" version="2" view="RPT548301171bb19410629d4002cd4bcb8e">
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>user</element>
+            <list_id display_value="x_ipegh_mydesk_booking" element="NULL" name="x_ipegh_mydesk_booking" parent="NULL" relationship="NULL" sys_domain="global" view="482556062f1a20101f3faf5df699b6e8">4fd6c56fdbf51010014e241bd3961927</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>0</position>
+            <sum>false</sum>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-07-10 09:07:49</sys_created_on>
+            <sys_id>47d6c56fdbf51010014e241bd3961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-10 09:07:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>floor</element>
+            <list_id display_value="x_ipegh_mydesk_booking" element="NULL" name="x_ipegh_mydesk_booking" parent="NULL" relationship="NULL" sys_domain="global" view="482556062f1a20101f3faf5df699b6e8">4fd6c56fdbf51010014e241bd3961927</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>1</position>
+            <sum>false</sum>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-07-10 09:07:49</sys_created_on>
+            <sys_id>0fd6c56fdbf51010014e241bd3961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-10 09:07:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>desk</element>
+            <list_id display_value="x_ipegh_mydesk_booking" element="NULL" name="x_ipegh_mydesk_booking" parent="NULL" relationship="NULL" sys_domain="global" view="482556062f1a20101f3faf5df699b6e8">4fd6c56fdbf51010014e241bd3961927</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>2</position>
+            <sum>false</sum>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-07-10 09:07:49</sys_created_on>
+            <sys_id>8fd6c56fdbf51010014e241bd3961929</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-10 09:07:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>booking_from</element>
+            <list_id display_value="x_ipegh_mydesk_booking" element="NULL" name="x_ipegh_mydesk_booking" parent="NULL" relationship="NULL" sys_domain="global" view="482556062f1a20101f3faf5df699b6e8">4fd6c56fdbf51010014e241bd3961927</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>3</position>
+            <sum>false</sum>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-07-10 09:07:49</sys_created_on>
+            <sys_id>03d6c56fdbf51010014e241bd396192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-10 09:07:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list_element action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element>booking_till</element>
+            <list_id display_value="x_ipegh_mydesk_booking" element="NULL" name="x_ipegh_mydesk_booking" parent="NULL" relationship="NULL" sys_domain="global" view="482556062f1a20101f3faf5df699b6e8">4fd6c56fdbf51010014e241bd3961927</list_id>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <position>4</position>
+            <sum>false</sum>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-07-10 09:07:49</sys_created_on>
+            <sys_id>83d6c56fdbf51010014e241bd396192a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-10 09:07:49</sys_updated_on>
+        </sys_ui_list_element>
+        <sys_ui_list action="INSERT_OR_UPDATE">
+            <average_value>false</average_value>
+            <element/>
+            <max_value>false</max_value>
+            <min_value>false</min_value>
+            <name>x_ipegh_mydesk_booking</name>
+            <parent/>
+            <position/>
+            <relationship/>
+            <sum>false</sum>
+            <sys_class_name>sys_ui_list</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-07-10 09:07:49</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4fd6c56fdbf51010014e241bd3961927</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ipegh_mydesk_booking</sys_name>
+            <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+            <sys_update_name>sys_ui_list_x_ipegh_mydesk_booking_RPT548301171bb19410629d4002cd4bcb8e</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-10 09:07:49</sys_updated_on>
+            <sys_user/>
+            <view display_value="Rpt548301171bb19410629d4002cd4bcb8e" name="RPT548301171bb19410629d4002cd4bcb8e">482556062f1a20101f3faf5df699b6e8</view>
+            <view_name/>
+        </sys_ui_list>
+    </sys_ui_list>
+</record_update>

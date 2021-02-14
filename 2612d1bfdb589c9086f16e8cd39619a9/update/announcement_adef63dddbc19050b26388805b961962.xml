@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="announcement">
+    <announcement action="INSERT_OR_UPDATE">
+        <active>false</active>
+        <click_target/>
+        <details/>
+        <details_link_text/>
+        <details_page/>
+        <details_url/>
+        <dismiss_options>session_dismissible</dismiss_options>
+        <display_first>false</display_first>
+        <display_style display_value="Normal">704dedd6e7d4030075c2a117c2f6a91b</display_style>
+        <from>2020-05-27 14:53:29</from>
+        <glyph>exclamation-circle</glyph>
+        <glyph_alt_text/>
+        <name>Clossing CopOps floors</name>
+        <public>false</public>
+        <roles/>
+        <show_for_unauthenticated_users_only>false</show_for_unauthenticated_users_only>
+        <summary>Please be informed that due to the limited attendance in our Berlin office, we will be closing floors 4 and 5 effective 1 June. Please only book desks on this floor for 28th and 29th May.&#13;
+The Response Team, along with Office Management will continue to monitor and assess the situation and the attendance rate in our office, and will reopen the above floors as soon as it becomes necessary. Thank you for your understanding.</summary>
+        <sys_class_name>announcement</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-27 15:05:08</sys_created_on>
+        <sys_id>adef63dddbc19050b26388805b961962</sys_id>
+        <sys_mod_count>9</sys_mod_count>
+        <sys_name>Clossing CopOps floors</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>announcement_adef63dddbc19050b26388805b961962</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-09-25 15:14:31</sys_updated_on>
+        <title>Closing floors 4 and 5 from 1 June</title>
+        <to>2020-05-29 16:00:00</to>
+        <type>67eaf134e7a3320075c2a117c2f6a9d2,8bf2b791db059050b26388805b961903</type>
+    </announcement>
+    <sys_translated_text action="delete_multiple" query="documentkey=adef63dddbc19050b26388805b961962"/>
+</record_update>
