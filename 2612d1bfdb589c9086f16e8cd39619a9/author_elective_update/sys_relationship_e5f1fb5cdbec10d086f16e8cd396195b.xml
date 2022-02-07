@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_relationship">
+    <sys_relationship action="DELETE">
+        <advanced>false</advanced>
+        <apply_to/>
+        <basic_apply_to>x_ipegh_mydesk_desk</basic_apply_to>
+        <basic_query_from>x_ipegh_mydesk_booking</basic_query_from>
+        <insert_callback/>
+        <name>Desks with bookings</name>
+        <query_from/>
+        <query_with><![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]></query_with>
+        <reference_field>desk</reference_field>
+        <related_list/>
+        <simple_reference>false</simple_reference>
+        <sys_class_name>sys_relationship</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-29 15:57:33</sys_created_on>
+        <sys_id>e5f1fb5cdbec10d086f16e8cd396195b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desks with bookings</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_relationship_e5f1fb5cdbec10d086f16e8cd396195b</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-29 15:57:33</sys_updated_on>
+    </sys_relationship>
+    <sys_translated_text action="DELETE" query="documentkey=e5f1fb5cdbec10d086f16e8cd396195b"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sys_relationship_e5f1fb5cdbec10d086f16e8cd396195b</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sys_relationship"&gt;&lt;sys_relationship action="INSERT_OR_UPDATE"&gt;&lt;advanced&gt;false&lt;/advanced&gt;&lt;apply_to/&gt;&lt;basic_apply_to&gt;x_ipegh_mydesk_desk&lt;/basic_apply_to&gt;&lt;basic_query_from&gt;x_ipegh_mydesk_booking&lt;/basic_query_from&gt;&lt;insert_callback/&gt;&lt;name&gt;Desks with bookings&lt;/name&gt;&lt;query_from/&gt;&lt;query_with&gt;&lt;![CDATA[(function refineQuery(current, parent) {
+
+	// Add your code here, such as current.addQuery(field, value);
+
+})(current, parent);]]&gt;&lt;/query_with&gt;&lt;reference_field&gt;desk&lt;/reference_field&gt;&lt;related_list/&gt;&lt;simple_reference&gt;false&lt;/simple_reference&gt;&lt;sys_class_name&gt;sys_relationship&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-04-29 15:57:33&lt;/sys_created_on&gt;&lt;sys_id&gt;e5f1fb5cdbec10d086f16e8cd396195b&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Desks with bookings&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_relationship_e5f1fb5cdbec10d086f16e8cd396195b&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-04-29 15:57:33&lt;/sys_updated_on&gt;&lt;/sys_relationship&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=e5f1fb5cdbec10d086f16e8cd396195b"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>784379400</payload_hash>
+        <record_name>Desks with bookings</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-29 15:57:33</sys_created_on>
+        <sys_id>13223bd8dbec10d086f16e8cd39619a6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c6a858b50000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-29 15:57:33</sys_updated_on>
+        <type>Relationship</type>
+        <update_guid>1b223bd890ec10d06b54b363840005a5</update_guid>
+        <update_guid_history>1b223bd890ec10d06b54b363840005a5:784379400</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-29 16:03:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_relationship">sys_relationship</sys_db_object>
+        <sys_id>8697b93fafcb44288684164294e8a6d1</sys_id>
+        <sys_metadata>e5f1fb5cdbec10d086f16e8cd396195b</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Desks with bookings</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent display_value="">e2f59137db989c9086f16e8cd3961946</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sys_relationship_e5f1fb5cdbec10d086f16e8cd396195b</sys_update_name>
+        <sys_update_version display_value="sys_relationship_e5f1fb5cdbec10d086f16e8cd396195b">13223bd8dbec10d086f16e8cd39619a6</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-29 16:03:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

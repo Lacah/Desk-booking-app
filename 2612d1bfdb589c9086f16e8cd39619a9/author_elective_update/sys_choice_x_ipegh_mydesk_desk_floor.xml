@@ -1,0 +1,360 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="floor" table="x_ipegh_mydesk_desk" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>floor</element>
+            <name>x_ipegh_mydesk_desk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_id>25a49a822f1a20101f3faf5df699b678</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>floor</sys_name>
+            <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_mydesk_desk_floor</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-27 15:18:11</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Basement</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>10</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7f5d137db989c9086f16e8cd396199e</sys_id>
+            <sys_mod_count>13</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-14 13:05:31</sys_updated_on>
+            <value>basement</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Ground floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>20</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4bf5d137db989c9086f16e8cd39619a0</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-22 13:59:19</sys_updated_on>
+            <value>ground_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1st floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>30</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8ff5d137db989c9086f16e8cd39619a2</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-29 16:28:22</sys_updated_on>
+            <value>1st_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2nd floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>40</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c3f5d137db989c9086f16e8cd39619a5</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-22 13:45:36</sys_updated_on>
+            <value>2nd_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3rd floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>50</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0bf5d137db989c9086f16e8cd39619a7</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-22 13:45:39</sys_updated_on>
+            <value>3rd_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>4th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>60</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4ff5d137db989c9086f16e8cd39619a9</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-29 09:51:14</sys_updated_on>
+            <value>4th_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>5th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>70</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>83f5d137db989c9086f16e8cd39619ac</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-29 09:51:18</sys_updated_on>
+            <value>5th_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>berlin</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>6th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>80</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-27 15:18:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c7f5d137db989c9086f16e8cd39619ae</sys_id>
+            <sys_mod_count>4</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-22 13:59:23</sys_updated_on>
+            <value>6th_floor</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>london</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>100</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:44:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3cdaab0fdb3cd05086f16e8cd3961925</sys_id>
+            <sys_mod_count>3</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-29 16:31:24</sys_updated_on>
+            <value>kx8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>streatham</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Ground floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1000</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:30:42</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>50a1c85c1be19010629d4002cd4bcbe7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:30:42</sys_updated_on>
+            <value>prs_str0</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>streatham</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>1st floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1100</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:31:06</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d5028c5c1be19010629d4002cd4bcb9b</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:33:42</sys_updated_on>
+            <value>prs_str1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>streatham</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>2nd floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1200</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:31:58</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0a32889c1be19010629d4002cd4bcb0a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:31:58</sys_updated_on>
+            <value>prs_str2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>streatham</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>3rd floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1300</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:32:21</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6742405c1be19010629d4002cd4bcb0c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:32:21</sys_updated_on>
+            <value>prs_str3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>streatham</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>4th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1400</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:34:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>75c2889c1be19010629d4002cd4bcb11</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:34:25</sys_updated_on>
+            <value>prs_str4</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>streatham</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>5th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>1500</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:32:40</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>54620c9c1be19010629d4002cd4bcbdf</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:32:53</sys_updated_on>
+            <value>prs_str5</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>kx</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>8th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>2000</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:28:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ebf0845c1be19010629d4002cd4bcbb5</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:28:05</sys_updated_on>
+            <value>prs_kx8</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value>kx</dependent_value>
+            <element>floor</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>9th floor</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence>2100</sequence>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-17 15:28:25</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8a61001c1be19010629d4002cd4bcbe6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-17 15:28:25</sys_updated_on>
+            <value>prs_kx9</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

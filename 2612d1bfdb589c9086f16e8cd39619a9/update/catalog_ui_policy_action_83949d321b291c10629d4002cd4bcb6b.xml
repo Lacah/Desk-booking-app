@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="INSERT_OR_UPDATE">
+        <catalog_item display_value="PRSfM Desk booking system">e694d5321b291c10629d4002cd4bcb87</catalog_item>
+        <catalog_variable>IO:b6945d321b291c10629d4002cd4bcbcb</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>ignore</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>200</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:56:45</sys_created_on>
+        <sys_id>83949d321b291c10629d4002cd4bcb6b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>user</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_83949d321b291c10629d4002cd4bcb6b</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:56:45</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Clear user if not me">43949d321b291c10629d4002cd4bcb5c</ui_policy>
+        <variable>user</variable>
+        <variable_set/>
+        <visible>true</visible>
+    </catalog_ui_policy_action>
+</record_update>

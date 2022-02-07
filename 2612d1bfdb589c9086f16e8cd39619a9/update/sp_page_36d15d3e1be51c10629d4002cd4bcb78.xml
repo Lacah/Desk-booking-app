@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_page">
+    <sp_page action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <css>body {&#13;
+background-image:url("prs_stave7.png");&#13;
+background-size:cover;&#13;
+}&#13;
+&#13;
+.bookingMenus {&#13;
+  margin: 0;&#13;
+  position: absolute;&#13;
+  top: 50%;&#13;
+  left: 50%;&#13;
+  transform: translate(-50%, -50%);&#13;
+  background-color: rgb(232, 0, 51);&#13;
+  width: 100%;&#13;
+  padding: 10px;&#13;
+}&#13;
+&#13;
+.text-muted {&#13;
+  color: rgb(241, 190, 175);&#13;
+}&#13;
+&#13;
+.widgetSize {&#13;
+  color: white !important;&#13;
+  transition: all 0.7s ease-in-out;&#13;
+}&#13;
+.widgetSize:hover {&#13;
+  transform: scale(1.1);&#13;
+}</css>
+        <draft>false</draft>
+        <dynamic_title_structure/>
+        <id>prs_mydesk</id>
+        <internal>false</internal>
+        <omit_watcher>false</omit_watcher>
+        <public>false</public>
+        <roles>x_ipegh_mydesk.booking_user</roles>
+        <seo_script/>
+        <short_description/>
+        <sys_class_name>sp_page</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:44:42</sys_created_on>
+        <sys_id>36d15d3e1be51c10629d4002cd4bcb78</sys_id>
+        <sys_mod_count>32</sys_mod_count>
+        <sys_name>prs_mydesk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_page_36d15d3e1be51c10629d4002cd4bcb78</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-10 12:15:00</sys_updated_on>
+        <title>PRS Desk Reservation</title>
+        <use_seo_script>false</use_seo_script>
+    </sp_page>
+    <sys_translated_text action="delete_multiple" query="documentkey=36d15d3e1be51c10629d4002cd4bcb78"/>
+</record_update>

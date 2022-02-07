@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element audit="true" label="Booking" max_length="40" name="x_ipegh_mydesk_booking" type="collection">
+        <element default="true" label="Active" max_length="40" name="active" read_only="true" type="boolean"/>
+        <element label="Booking by" max_length="32" name="booking_by" read_only="true" reference="sys_user" type="reference"/>
+        <element label="Booking from" max_length="40" name="booking_from" type="glide_date"/>
+        <element label="Booking till" max_length="40" name="booking_till" type="glide_date"/>
+        <element choice="1" choice_field="department" choice_table="x_ipegh_mydesk_desk" label="Department" max_length="40" name="department" read_only="true" type="choice">
+            <choice/>
+        </element>
+        <element attributes="ref_auto_completer=AJAXReferenceChoice" choice="1" choice_field="floor" choice_table="x_ipegh_mydesk_desk" label="Desk" mandatory="true" max_length="32" name="desk" reference="x_ipegh_mydesk_desk" reference_qual="javascript:global.globalDeskRefQual()" type="reference" use_reference_qualifier="advanced">
+            <choice>
+                <element inactive_on_update="false" label="1st floor" sequence="2" value="1st_floor"/>
+            </choice>
+        </element>
+        <element label="Duration of booking" max_length="40" name="duration_of_booking" read_only="true" type="glide_duration"/>
+        <element choice="1" choice_field="floor" choice_table="x_ipegh_mydesk_desk" dependent="office" dependent_on_field="office" label="Floor" mandatory="true" max_length="40" name="floor" type="choice" use_dependent_field="true">
+            <choice>
+                <element dependent_value="london" inactive_on_update="false" label="8th floor" sequence="0" value="kx8"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="Basement" sequence="1" value="basement"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="Ground floor" sequence="2" value="ground_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="1st floor" sequence="3" value="1st_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="2nd floor" sequence="4" value="2nd_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="3rd floor" sequence="5" value="3rd_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="4th floor" sequence="6" value="4th_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="5th floor" sequence="7" value="5th_floor"/>
+                <element dependent_value="berlin" inactive_on_update="false" label="6th floor" sequence="8" value="6th_floor"/>
+            </choice>
+        </element>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" display="true" label="Number" max_length="40" name="number" read_only="true" type="string"/>
+        <element choice="1" choice_field="office" choice_table="x_ipegh_mydesk_desk" label="Office" max_length="40" name="office" read_only="true" reference="sys_choice" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Berlin" sequence="0" value="berlin"/>
+                <element inactive_on_update="false" label="London" sequence="1" value="london"/>
+            </choice>
+        </element>
+        <element choice="3" default="3" label="Status" max_length="40" name="status" read_only="true" type="integer">
+            <choice>
+                <element inactive_on_update="false" label="Cancelled" value="-3"/>
+                <element inactive_on_update="false" label="Confirmed" value="3"/>
+                <element inactive_on_update="false" label="Expired" value="-1"/>
+                <element inactive_on_update="false" label="Pending" value="1"/>
+            </choice>
+        </element>
+        <element label="User" max_length="32" name="user" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="desk"/>
+        </index>
+        <index name="index2">
+            <element name="booking_by"/>
+        </index>
+        <index name="index3">
+            <element name="user"/>
+        </index>
+    </element>
+</database>

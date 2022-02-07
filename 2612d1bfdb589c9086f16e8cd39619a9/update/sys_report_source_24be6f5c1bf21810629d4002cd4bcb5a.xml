@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_source">
+    <sys_report_source action="INSERT_OR_UPDATE">
+        <description/>
+        <display>First aiders (Booking)</display>
+        <filter table="x_ipegh_mydesk_booking">active=true^user.u_first_aider=true<item endquery="false" field="active" goto="false" newquery="false" operator="=" or="false" value="true"/>
+        </filter>
+        <name>First aiders</name>
+        <sys_class_name>sys_report_source</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-08-19 12:05:07</sys_created_on>
+        <sys_id>24be6f5c1bf21810629d4002cd4bcb5a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>First aiders (Booking)</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_report_source_24be6f5c1bf21810629d4002cd4bcb5a</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-08-19 12:05:07</sys_updated_on>
+        <table>x_ipegh_mydesk_booking</table>
+    </sys_report_source>
+</record_update>

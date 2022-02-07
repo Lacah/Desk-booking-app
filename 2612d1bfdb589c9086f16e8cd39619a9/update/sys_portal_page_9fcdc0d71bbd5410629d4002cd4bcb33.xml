@@ -1,0 +1,1436 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2021-02-14 16:07:06">
+    <sys_portal_page action="INSERT_OR_UPDATE">
+        <layout/>
+        <order/>
+        <read_roles/>
+        <roles/>
+        <selectable>false</selectable>
+        <sys_class_name>sys_portal_page</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-09 10:20:03</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>9fcdc0d71bbd5410629d4002cd4bcb33</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Last week</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_portal_page_9fcdc0d71bbd5410629d4002cd4bcb33</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-09 10:20:03</sys_updated_on>
+        <title>PA Last week</title>
+        <user/>
+        <view>pa_prs_desk_booking_sys_-_new_tab_5_1</view>
+        <related_items_node>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>Last week's bookings - London</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                <sys_id>37040d171bb19410629d4002cd4bcb7a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>231401571bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>231401571bb19410629d4002cd4bcb7c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>271401571bb19410629d4002cd4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>271401571bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>271401571bb19410629d4002cd4bcb7c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>2b1401571bb19410629d4002cd4bcb7a</sys_id>
+                        <sys_mod_count>1</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:26</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>2b1401571bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>2f1401571bb19410629d4002cd4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:21</sys_created_on>
+                        <sys_id>2f1401571bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:21</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>33040d171bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>3b040d171bb19410629d4002cd4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>08f349171bb19410629d4002cd4bcb33</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>3f040d171bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>Last week's bookings - London</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>7b040d171bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>7f040d171bb19410629d4002cd4bcb7a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>b7040d171bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>f3040d171bb19410629d4002cd4bcb7b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:17:06">37040d171bb19410629d4002cd4bcb7a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:17:06</sys_created_on>
+                        <sys_id>f3040d171bb19410629d4002cd4bcb7c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:17:06</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>3rd floor ticker last week</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                <sys_id>822305d31bb19410629d4002cd4bcb4a</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>062305d31bb19410629d4002cd4bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2033c5d31bb19410629d4002cd4bcb8e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2033c5d31bb19410629d4002cd4bcb8f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2433c5d31bb19410629d4002cd4bcb8e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2433c5d31bb19410629d4002cd4bcb8f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2833c5d31bb19410629d4002cd4bcb8d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2833c5d31bb19410629d4002cd4bcb8e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2833c5d31bb19410629d4002cd4bcb8f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2c33c5d31bb19410629d4002cd4bcb8d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:20</sys_created_on>
+                        <sys_id>2c33c5d31bb19410629d4002cd4bcb8e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:20</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>422305d31bb19410629d4002cd4bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>422305d31bb19410629d4002cd4bcb4c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>862305d31bb19410629d4002cd4bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>cb0345d31bb19410629d4002cd4bcb9b</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>8a2305d31bb19410629d4002cd4bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>3rd floor ticker last week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>8e2305d31bb19410629d4002cd4bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>c62305d31bb19410629d4002cd4bcb4b</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:13:09">822305d31bb19410629d4002cd4bcb4a</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:13:09</sys_created_on>
+                        <sys_id>ca2305d31bb19410629d4002cd4bcb4a</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:13:09</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>Berlin ticker - last week</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                <sys_id>c4e149531bb19410629d4002cd4bcbc9</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>00e149531bb19410629d4002cd4bcbca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>00e18d531bb19410629d4002cd4bcbcc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>Berlin ticker - last week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>4ce18d531bb19410629d4002cd4bcbcb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>88e18d531bb19410629d4002cd4bcbcb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>c0e149531bb19410629d4002cd4bcbca</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>c4e18d531bb19410629d4002cd4bcbcb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>c4e18d531bb19410629d4002cd4bcbcc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:34</sys_created_on>
+                        <sys_id>c8e149531bb19410629d4002cd4bcbc9</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:34</sys_updated_on>
+                        <value>99c149531bb19410629d4002cd4bcbc3</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>f3e1c9531bb19410629d4002cd4bcb9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>f3e1c9531bb19410629d4002cd4bcba0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>f7e1c9531bb19410629d4002cd4bcb9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>f7e1c9531bb19410629d4002cd4bcba0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>fbe1c9531bb19410629d4002cd4bcb9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>fbe1c9531bb19410629d4002cd4bcba0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>ffe1c9531bb19410629d4002cd4bcb9e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>ffe1c9531bb19410629d4002cd4bcb9f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:07:34">c4e149531bb19410629d4002cd4bcbc9</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:07:49</sys_created_on>
+                        <sys_id>ffe1c9531bb19410629d4002cd4bcba0</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:07:49</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>2nd floor ticker last week</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                <sys_id>cbe2c1d31bb19410629d4002cd4bcbe5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>03e2c1d31bb19410629d4002cd4bcbe7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>07e2c1d31bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>4fe2c1d31bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>83f245d31bb19410629d4002cd4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>83f245d31bb19410629d4002cd4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>87f245d31bb19410629d4002cd4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>87f245d31bb19410629d4002cd4bcb96</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>8be2c1d31bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>8be2c1d31bb19410629d4002cd4bcbe7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>8bf245d31bb19410629d4002cd4bcb94</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>8bf245d31bb19410629d4002cd4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>8ff245d31bb19410629d4002cd4bcb94</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>8ff245d31bb19410629d4002cd4bcb95</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>c3e2c1d31bb19410629d4002cd4bcbe7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>2nd floor ticker last week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:24</sys_created_on>
+                        <sys_id>c3f241d31bb19410629d4002cd4bcb73</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:24</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>c7e2c1d31bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:12:08">cbe2c1d31bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:12:08</sys_created_on>
+                        <sys_id>cfe2c1d31bb19410629d4002cd4bcbe5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:12:08</sys_updated_on>
+                        <value>25d20d931bb19410629d4002cd4bcb40</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>1st floor ticker - last week</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                <sys_id>d1b20d931bb19410629d4002cd4bcbe5</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>19b20d931bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>1db20d931bb19410629d4002cd4bcbe5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>55b20d931bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>91b20d931bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>91b20d931bb19410629d4002cd4bcbe7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>d0c2cd931bb19410629d4002cd4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>d0c2cd931bb19410629d4002cd4bcb2d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>d4c2cd931bb19410629d4002cd4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>d4c2cd931bb19410629d4002cd4bcb2d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>d5b20d931bb19410629d4002cd4bcbe5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>9ca20d931bb19410629d4002cd4bcb11</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>d8c2cd931bb19410629d4002cd4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>d8c2cd931bb19410629d4002cd4bcb2d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>d9b20d931bb19410629d4002cd4bcbe6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>1st floor ticker - last week</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>dcc2cd931bb19410629d4002cd4bcb2c</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:12</sys_created_on>
+                        <sys_id>ddb20d931bb19410629d4002cd4bcbe5</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:12</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>e0c2cd931bb19410629d4002cd4bcb2e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:11:12">d1b20d931bb19410629d4002cd4bcbe5</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:11:25</sys_created_on>
+                        <sys_id>ecc2cd931bb19410629d4002cd4bcb2d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:11:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>Last week's bookings - Berlin</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                <sys_id>d8a3c1171bb19410629d4002cd4bcbc6</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>03a3cdd31bb19410629d4002cd4bcbd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>07a3cdd31bb19410629d4002cd4bcbd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>0ba3cdd31bb19410629d4002cd4bcbd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>0fa3cdd31bb19410629d4002cd4bcbd3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>0fa3cdd31bb19410629d4002cd4bcbd4</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>10a3c1171bb19410629d4002cd4bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>list</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>14a3c1171bb19410629d4002cd4bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>5ca3c1171bb19410629d4002cd4bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>83a309171bb19410629d4002cd4bcb49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>87a309171bb19410629d4002cd4bcb49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>8ba309171bb19410629d4002cd4bcb49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:25</sys_created_on>
+                        <sys_id>8fa309171bb19410629d4002cd4bcb49</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:25</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>98a3c1171bb19410629d4002cd4bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>98a3c1171bb19410629d4002cd4bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>d0a3c1171bb19410629d4002cd4bcbc8</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>Last week's bookings - Berlin</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>d4a3c1171bb19410629d4002cd4bcbc7</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:15:13">d8a3c1171bb19410629d4002cd4bcbc6</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:15:13</sys_created_on>
+                        <sys_id>dca3c1171bb19410629d4002cd4bcbc6</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:15:13</sys_updated_on>
+                        <value>548301171bb19410629d4002cd4bcb8e</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+            <sys_portal action="INSERT_OR_UPDATE">
+                <dropzone/>
+                <offset/>
+                <page display_value="PA Last week">9fcdc0d71bbd5410629d4002cd4bcb33</page>
+                <summary>London ticker last week</summary>
+                <sys_created_by>LasBal</sys_created_by>
+                <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                <sys_id>f463c5d31bb19410629d4002cd4bcbc2</sys_id>
+                <sys_mod_count>1</sys_mod_count>
+                <sys_updated_by>LasBal</sys_updated_by>
+                <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                <related_items_node>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>renderer</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>3063c5d31bb19410629d4002cd4bcbc3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>com.glide.ui.portal.RenderReport</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>report_type</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>3c63c5d31bb19410629d4002cd4bcbc3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>single_score</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_subscribe</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>7863c5d31bb19410629d4002cd4bcbc3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>is_using_database_view</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>7c6301171bb19410629d4002cd4bcb5d</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value/>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>can_publish</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>b463c5d31bb19410629d4002cd4bcbc3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c073cdd31bb19410629d4002cd4bcbcc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>center</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c073cdd31bb19410629d4002cd4bcbcd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c473cdd31bb19410629d4002cd4bcbcc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c473cdd31bb19410629d4002cd4bcbcd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c873cdd31bb19410629d4002cd4bcbcb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c873cdd31bb19410629d4002cd4bcbcc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_color</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>c873cdd31bb19410629d4002cd4bcbcd</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>#0d7695</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>cc73cdd31bb19410629d4002cd4bcbcb</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:23</sys_created_on>
+                        <sys_id>cc73cdd31bb19410629d4002cd4bcbcc</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:23</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>help_text_window</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>f063c5d31bb19410629d4002cd4bcbc3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>report_widget_description</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>sys_id</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>f863c5d31bb19410629d4002cd4bcbc2</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>a243c9d31bb19410629d4002cd4bcb1e</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title</name>
+                        <portal_section display_value="Created 2020-07-09 07:14:10">f463c5d31bb19410629d4002cd4bcbc2</portal_section>
+                        <sys_created_by>LasBal</sys_created_by>
+                        <sys_created_on>2020-07-09 14:14:10</sys_created_on>
+                        <sys_id>fc63c5d31bb19410629d4002cd4bcbc3</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>LasBal</sys_updated_by>
+                        <sys_updated_on>2020-07-09 14:14:10</sys_updated_on>
+                        <value>London ticker last week</value>
+                    </sys_portal_preferences>
+                </related_items_node>
+            </sys_portal>
+        </related_items_node>
+    </sys_portal_page>
+</record_update>

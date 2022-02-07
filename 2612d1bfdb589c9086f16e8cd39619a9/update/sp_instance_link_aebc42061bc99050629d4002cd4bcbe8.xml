@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <glyph>keyboard-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Enable or block desks by floor</short_description>
+        <size>md</size>
+        <sp_column display_value="3">53a50bb8db065410014e241bd3961985</sp_column>
+        <sp_page display_value="desk_admin">6eb5a5491b499c10629d4002cd4bcb6a</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-29 15:35:05</sys_created_on>
+        <sys_id>aebc42061bc99050629d4002cd4bcbe8</sys_id>
+        <sys_mod_count>16</sys_mod_count>
+        <sys_name>Manage desks</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_link_aebc42061bc99050629d4002cd4bcbe8</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-14 15:34:21</sys_updated_on>
+        <title>Manage desks</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="delete_multiple" query="documentkey=aebc42061bc99050629d4002cd4bcbe8"/>
+</record_update>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="question_choice">
+    <question_choice action="INSERT_OR_UPDATE">
+        <inactive>false</inactive>
+        <misc>0</misc>
+        <order>100</order>
+        <published_ref/>
+        <question display_value="Office">46386de2db78505086f16e8cd396199f</question>
+        <rec_misc>0</rec_misc>
+        <sys_class_name>question_choice</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-18 15:58:43</sys_created_on>
+        <sys_id>2198e126db78505086f16e8cd3961927</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Berlin</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>question_choice_2198e126db78505086f16e8cd3961927</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-18 15:58:43</sys_updated_on>
+        <text>Berlin</text>
+        <value>berlin</value>
+    </question_choice>
+    <fx_price action="delete_multiple" query="id=2198e126db78505086f16e8cd3961927"/>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="EUR">EUR</currency>
+        <field>misc</field>
+        <id>2198e126db78505086f16e8cd3961927</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="EUR">EUR</reference_currency>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-18 15:58:43</sys_created_on>
+        <sys_id>5da8a962db78505086f16e8cd3961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-18 15:58:43</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+    <fx_price action="INSERT_OR_UPDATE">
+        <amount>0</amount>
+        <currency display_value="EUR">EUR</currency>
+        <field>rec_misc</field>
+        <id>2198e126db78505086f16e8cd3961927</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="EUR">EUR</reference_currency>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-18 15:58:43</sys_created_on>
+        <sys_id>15a8a962db78505086f16e8cd3961928</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-18 15:58:43</sys_updated_on>
+        <table>question_choice</table>
+        <type>calculated</type>
+    </fx_price>
+</record_update>

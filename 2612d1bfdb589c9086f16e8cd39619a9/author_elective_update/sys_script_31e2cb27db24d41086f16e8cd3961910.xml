@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_script">
+    <sys_script action="DELETE">
+        <abort_action>false</abort_action>
+        <access>package_private</access>
+        <action_delete>false</action_delete>
+        <action_insert>true</action_insert>
+        <action_query>false</action_query>
+        <action_update>false</action_update>
+        <active>true</active>
+        <add_message>false</add_message>
+        <advanced>true</advanced>
+        <change_fields>false</change_fields>
+        <client_callable>false</client_callable>
+        <collection>x_ipegh_mydesk_booking</collection>
+        <condition/>
+        <description/>
+        <execute_function>false</execute_function>
+        <filter_condition/>
+        <is_rest>false</is_rest>
+        <message/>
+        <name>Populate booking by user</name>
+        <order>100</order>
+        <priority>100</priority>
+        <rest_method/>
+        <rest_method_text/>
+        <rest_service/>
+        <rest_service_text/>
+        <rest_variables/>
+        <role_conditions/>
+        <script><![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	var userName = current.getValue('sys_created_by');
+	var gr = new GlideRecord('sys_user');
+	gr.get('name',userName);
+	current.setValue('booking_by',gr);
+	current.update();
+
+})(current, previous);]]></script>
+        <sys_class_name>sys_script</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-09 14:55:13</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>31e2cb27db24d41086f16e8cd3961910</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>Populate booking by user</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_script_31e2cb27db24d41086f16e8cd3961910</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-10 14:49:21</sys_updated_on>
+        <template/>
+        <when>before</when>
+    </sys_script>
+    <sys_translated_text action="DELETE" query="documentkey=31e2cb27db24d41086f16e8cd3961910"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sys_script_31e2cb27db24d41086f16e8cd3961910</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update sys_domain="global" table="sys_script"&gt;&lt;sys_script action="INSERT_OR_UPDATE"&gt;&lt;abort_action&gt;false&lt;/abort_action&gt;&lt;access&gt;package_private&lt;/access&gt;&lt;action_delete&gt;false&lt;/action_delete&gt;&lt;action_insert&gt;true&lt;/action_insert&gt;&lt;action_query&gt;false&lt;/action_query&gt;&lt;action_update&gt;false&lt;/action_update&gt;&lt;active&gt;true&lt;/active&gt;&lt;add_message&gt;false&lt;/add_message&gt;&lt;advanced&gt;true&lt;/advanced&gt;&lt;change_fields&gt;false&lt;/change_fields&gt;&lt;client_callable&gt;false&lt;/client_callable&gt;&lt;collection&gt;x_ipegh_mydesk_booking&lt;/collection&gt;&lt;condition/&gt;&lt;description/&gt;&lt;execute_function&gt;false&lt;/execute_function&gt;&lt;filter_condition/&gt;&lt;is_rest&gt;false&lt;/is_rest&gt;&lt;message/&gt;&lt;name&gt;Populate booking by user&lt;/name&gt;&lt;order&gt;100&lt;/order&gt;&lt;priority&gt;100&lt;/priority&gt;&lt;rest_method/&gt;&lt;rest_method_text/&gt;&lt;rest_service/&gt;&lt;rest_service_text/&gt;&lt;rest_variables/&gt;&lt;role_conditions/&gt;&lt;script&gt;&lt;![CDATA[(function executeRule(current, previous /*null when async*/) {
+
+	var userName = current.getValue('sys_created_by');
+	var gr = new GlideRecord('sys_user');
+	gr.get('name',userName);
+	current.setValue('booking_by',gr);
+	current.update();
+
+})(current, previous);]]&gt;&lt;/script&gt;&lt;sys_class_name&gt;sys_script&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-09 14:55:13&lt;/sys_created_on&gt;&lt;sys_domain&gt;global&lt;/sys_domain&gt;&lt;sys_domain_path&gt;/&lt;/sys_domain_path&gt;&lt;sys_id&gt;31e2cb27db24d41086f16e8cd3961910&lt;/sys_id&gt;&lt;sys_mod_count&gt;5&lt;/sys_mod_count&gt;&lt;sys_name&gt;Populate booking by user&lt;/sys_name&gt;&lt;sys_overrides/&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sys_script_31e2cb27db24d41086f16e8cd3961910&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-10 14:49:21&lt;/sys_updated_on&gt;&lt;template/&gt;&lt;when&gt;before&lt;/when&gt;&lt;/sys_script&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=31e2cb27db24d41086f16e8cd3961910"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-445597601</payload_hash>
+        <record_name>Populate booking by user</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-10 14:49:21</sys_created_on>
+        <sys_id>9f0c84801b705810629d4002cd4bcbd8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171ff0fdcf00000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-10 14:49:21</sys_updated_on>
+        <type>Business Rule</type>
+        <update_guid>d30c8480867058101fa11ebe4fc36dd8</update_guid>
+        <update_guid_history>d30c8480867058101fa11ebe4fc36dd8:-445597601,e226072b7d24d4109b69ce91fa3ccbc6:286055295,c95547a70724d4102eed788eba1de5ab:776984733,58d487a7b124d41031eb9fc53ddc7b17:-2032576627,1964c3a7cc24d410ed4fc315876ba30d:-582726356,1bc30b67cb24d4100c03dba92d9d1e61:-689045281</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-10 15:22:43</sys_created_on>
+        <sys_db_object display_value="" name="sys_script">sys_script</sys_db_object>
+        <sys_id>918a67f101e24f0296d36c8d05e14b44</sys_id>
+        <sys_metadata>31e2cb27db24d41086f16e8cd3961910</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Populate booking by user</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent display_value="">3d1a0ed4db6810d086f16e8cd39619f4</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sys_script_31e2cb27db24d41086f16e8cd3961910</sys_update_name>
+        <sys_update_version display_value="sys_script_31e2cb27db24d41086f16e8cd3961910">9f0c84801b705810629d4002cd4bcbd8</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-10 15:22:43</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

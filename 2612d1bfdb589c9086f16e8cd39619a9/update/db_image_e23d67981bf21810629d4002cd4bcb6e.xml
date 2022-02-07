@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="db_image">
+    <db_image action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <category/>
+        <format>png</format>
+        <height>16</height>
+        <image/>
+        <name>fire-extinguisher.png</name>
+        <size_bytes>279</size_bytes>
+        <sys_class_name>db_image</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-08-19 11:57:14</sys_created_on>
+        <sys_id>e23d67981bf21810629d4002cd4bcb6e</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>fire-extinguisher.png</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>db_image_e23d67981bf21810629d4002cd4bcb6e</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:57:14</sys_updated_on>
+        <thumbnail/>
+        <width>16</width>
+    </db_image>
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#ffffff</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/png</content_type>
+        <file_name>image</file_name>
+        <hash>0857b4e51a4c8095325d1006ab29371e5dbbf5e0ab64eb51122921cc1dbfb1a0</hash>
+        <image_height>16</image_height>
+        <image_width>16</image_width>
+        <size_bytes>279</size_bytes>
+        <size_compressed>299</size_compressed>
+        <state>available</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-08-19 11:57:14</sys_created_on>
+        <sys_id>ea3d67981bf21810629d4002cd4bcb70</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-08-19 11:57:14</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>e23d67981bf21810629d4002cd4bcb6e</table_sys_id>
+    </sys_attachment>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>H4sIAAAAAAAAAA==</data>
+        <length>16</length>
+        <position>0</position>
+        <sys_attachment display_value="image" sys_id="ea3d67981bf21810629d4002cd4bcb70">ea3d67981bf21810629d4002cd4bcb70</sys_attachment>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-08-19 11:57:14</sys_created_on>
+        <sys_id>2e3d67981bf21810629d4002cd4bcb70</sys_id>
+    </sys_attachment_doc>
+    <sys_attachment_doc action="INSERT_OR_UPDATE">
+        <data>6wzwc+flkuJiYGDg9fRwCQLSAiDMwQYk5T//TwRSnAUekcUMDNzCIMzIMGuOBFDwpKeLY4hF79uJC/2YAwVc+U9HzXJ6NY2t2aHZqXGd9iz5jPoF9gGXr4Q+XLGOzZ9DzNFjVfaPxlXLmppfdF2/W3vSzPXbCevi9z5pCxpuhc2/cjxprdgrl7er47O0Lxh/dZRdmf9K1iHKYD7jdAf2HQxpr6QyGLa3Ri5n8EzYx/jMQbiCra9R9QPTHqb7B/Jz3i77tZjvqvLW123lX61eWAe+v9pYJcqW8srC/PudtKn54b87uE/7JP/1bC2LC+5me3NE8YE80yWut82fbtt9lxV5yi/2Yo77Z/2XH4GeYvB09XNZ55TQBACEjoH1FwEAAA==</data>
+        <length>388</length>
+        <position>1</position>
+        <sys_attachment display_value="image" sys_id="ea3d67981bf21810629d4002cd4bcb70">ea3d67981bf21810629d4002cd4bcb70</sys_attachment>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-08-19 11:57:14</sys_created_on>
+        <sys_id>ae3d67981bf21810629d4002cd4bcb70</sys_id>
+    </sys_attachment_doc>
+</record_update>

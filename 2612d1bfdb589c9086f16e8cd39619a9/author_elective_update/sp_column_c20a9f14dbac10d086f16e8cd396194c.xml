@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column">
+    <sp_column action="DELETE">
+        <class_name/>
+        <order>2</order>
+        <size>3</size>
+        <size_lg/>
+        <size_sm/>
+        <size_xs/>
+        <sp_row display_value="1">f50adfdcdb6c10d086f16e8cd3961945</sp_row>
+        <sys_class_name>sp_column</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-29 14:12:04</sys_created_on>
+        <sys_id>c20a9f14dbac10d086f16e8cd396194c</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_column_c20a9f14dbac10d086f16e8cd396194c</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-29 14:12:36</sys_updated_on>
+    </sp_column>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_column_c20a9f14dbac10d086f16e8cd396194c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_column"><sp_column action="INSERT_OR_UPDATE"><class_name/><order>2</order><size>3</size><size_lg/><size_sm/><size_xs/><sp_row display_value="1">f50adfdcdb6c10d086f16e8cd3961945</sp_row><sys_class_name>sp_column</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-04-29 14:12:04</sys_created_on><sys_id>c20a9f14dbac10d086f16e8cd396194c</sys_id><sys_mod_count>2</sys_mod_count><sys_name>2</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>sp_column_c20a9f14dbac10d086f16e8cd396194c</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-04-29 14:12:36</sys_updated_on></sp_column></record_update>]]></payload>
+        <payload_hash>791662284</payload_hash>
+        <record_name>2</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-29 14:12:36</sys_created_on>
+        <sys_id>fd2a1354dbac10d086f16e8cd3961959</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171c64843cb0000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-29 14:12:36</sys_updated_on>
+        <type>Column</type>
+        <update_guid>752a1354e0ac10d075d6904adc397e59</update_guid>
+        <update_guid_history>752a1354e0ac10d075d6904adc397e59:791662284,5b1adf1484ac10d0c39e1c29c066949f:195217614,420a9f141eac10d00698e13c4f197e4d:-401227056</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">be2adbd0dbac10d086f16e8cd39619a5</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-04-29 14:12:40</sys_created_on>
+        <sys_db_object display_value="" name="sp_column">sp_column</sys_db_object>
+        <sys_id>7d3ee3aca09544bca402683eb5599810</sys_id>
+        <sys_metadata>c20a9f14dbac10d086f16e8cd396194c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_column_c20a9f14dbac10d086f16e8cd396194c</sys_update_name>
+        <sys_update_version display_value="sp_column_c20a9f14dbac10d086f16e8cd396194c">fd2a1354dbac10d086f16e8cd3961959</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-04-29 14:12:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

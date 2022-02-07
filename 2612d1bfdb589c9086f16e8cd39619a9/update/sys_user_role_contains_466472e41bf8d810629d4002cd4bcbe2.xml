@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="x_ipegh_mydesk.user" name="x_ipegh_mydesk.user">2c829933db989c9086f16e8cd3961913</contains>
+        <role display_value="x_ipegh_mydesk.booking_user" name="x_ipegh_mydesk.booking_user">324a4ed4db6810d086f16e8cd3961902</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-12 16:21:53</sys_created_on>
+        <sys_id>466472e41bf8d810629d4002cd4bcbe2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_ipegh_mydesk.user.x_ipegh_mydesk.booking_user</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sys_user_role_contains_466472e41bf8d810629d4002cd4bcbe2</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-12 16:21:53</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>

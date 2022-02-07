@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Mydesk M2m Bookings Desks" max_length="40" name="x_ipegh_mydesk_m2m_bookings_desks" type="collection">
+        <element attributes="encode_utf8=false" label="Booking" max_length="32" name="desk" reference="x_ipegh_mydesk_booking" type="reference"/>
+        <element attributes="encode_utf8=false" label="Desk" max_length="32" name="name" reference="x_ipegh_mydesk_desk" type="reference"/>
+        <index name="index">
+            <element name="desk"/>
+        </index>
+        <index name="index2">
+            <element name="name"/>
+        </index>
+    </element>
+</database>

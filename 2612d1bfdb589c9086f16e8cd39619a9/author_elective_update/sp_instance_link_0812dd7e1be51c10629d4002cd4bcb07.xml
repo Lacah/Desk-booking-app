@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name>widgetSize</class_name>
+        <color>default</color>
+        <css/>
+        <glyph>pencil</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Check and cancel reservations</short_description>
+        <size>md</size>
+        <sp_column display_value="3">4c12dd7e1be51c10629d4002cd4bcb05</sp_column>
+        <sp_page display_value="manage_my_bookings">d9c62a6bdba0d41086f16e8cd39619fc</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:45:37</sys_created_on>
+        <sys_id>0812dd7e1be51c10629d4002cd4bcb07</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manage my bookings</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_link_0812dd7e1be51c10629d4002cd4bcb07</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:45:37</sys_updated_on>
+        <title>Manage my bookings</title>
+        <type>page</type>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=0812dd7e1be51c10629d4002cd4bcb07"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_instance_link_0812dd7e1be51c10629d4002cd4bcb07</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name&gt;widgetSize&lt;/class_name&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;pencil&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Check and cancel reservations&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;4c12dd7e1be51c10629d4002cd4bcb05&lt;/sp_column&gt;&lt;sp_page display_value="manage_my_bookings"&gt;d9c62a6bdba0d41086f16e8cd39619fc&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-06-25 15:45:37&lt;/sys_created_on&gt;&lt;sys_id&gt;0812dd7e1be51c10629d4002cd4bcb07&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_name&gt;Manage my bookings&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_0812dd7e1be51c10629d4002cd4bcb07&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-06-25 15:45:37&lt;/sys_updated_on&gt;&lt;title&gt;Manage my bookings&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=0812dd7e1be51c10629d4002cd4bcb07"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1291831325</payload_hash>
+        <record_name>Manage my bookings</record_name>
+        <reverted_from/>
+        <source>02de1a89db49985086f16e8cd3961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:45:37</sys_created_on>
+        <sys_id>0012dd7e1be51c10629d4002cd4bcb09</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172ec27e6b20000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:45:37</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>0812dd7e78e51c10f8003473d2158108</update_guid>
+        <update_guid_history>0812dd7e78e51c10f8003473d2158108:-1291831325</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">263291be1be51c10629d4002cd4bcbb3</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:46:20</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>1f3b7b93456e4606a41ae6f9820cb0e1</sys_id>
+        <sys_metadata>0812dd7e1be51c10629d4002cd4bcb07</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Manage my bookings</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_instance_link_0812dd7e1be51c10629d4002cd4bcb07</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_0812dd7e1be51c10629d4002cd4bcb07">0012dd7e1be51c10629d4002cd4bcb09</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-25 15:46:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

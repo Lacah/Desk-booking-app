@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="7a9dbed8db2c10d086f16e8cd39619c6" sys_domain="global" table="x_ipegh_mydesk_booking" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.begin_split</element>
+            <position>0</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>ba9dbed8db2c10d086f16e8cd39619cd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type>.begin_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>number</element>
+            <position>1</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>b69dbed8db2c10d086f16e8cd39619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>user</element>
+            <position>2</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>3e9dbed8db2c10d086f16e8cd39619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>booking_from</element>
+            <position>3</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>b29dbed8db2c10d086f16e8cd39619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>desk</element>
+            <position>4</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>3a9dbed8db2c10d086f16e8cd39619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>5</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>be9dbed8db2c10d086f16e8cd39619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>booking_till</element>
+            <position>6</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>369dbed8db2c10d086f16e8cd39619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>duration_of_booking</element>
+            <position>7</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>ba9dbed8db2c10d086f16e8cd39619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>8</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>329dbed8db2c10d086f16e8cd39619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.end_split</element>
+            <position>9</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_id>b69dbed8db2c10d086f16e8cd39619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <type>.end_split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>active</element>
+            <position>10</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-06 11:10:02</sys_created_on>
+            <sys_id>937376aedb28d01086f16e8cd3961908</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-06 11:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>booking_by</element>
+            <position>11</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-09 14:50:55</sys_created_on>
+            <sys_id>54d20b27db24d41086f16e8cd3961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-09 14:50:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>floor</element>
+            <position>12</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-11 13:43:31</sys_created_on>
+            <sys_id>2496c510db38581086f16e8cd39619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-11 13:43:31</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>office</element>
+            <position>13</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-05-20 14:51:10</sys_created_on>
+            <sys_id>535ce34fdb3cd05086f16e8cd3961910</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-05-20 14:51:10</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <position>14</position>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-25 17:06:55</sys_created_on>
+            <sys_id>8ba429b61b691c10629d4002cd4bcb4b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_ipegh_mydesk_booking" sys_domain="global" view="Default view">7a9dbed8db2c10d086f16e8cd39619c6</sys_ui_section>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-25 17:06:55</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_ipegh_mydesk_booking</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-04-29 12:07:53</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7a9dbed8db2c10d086f16e8cd39619c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_ipegh_mydesk_booking</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+            <sys_update_name>sys_ui_section_7a9dbed8db2c10d086f16e8cd39619c6</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-04-29 12:07:53</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs">
+    <pa_m2m_dashboard_tabs action="DELETE">
+        <dashboard display_value="PRS desk booking system stats">981b2a221b39d010629d4002cd4bcb80</dashboard>
+        <home>false</home>
+        <homepage/>
+        <order>2</order>
+        <sys_class_name>pa_m2m_dashboard_tabs</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 15:14:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path/>
+        <sys_id>a6fd7e661b79d010629d4002cd4bcbaf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>981b2a221b39d010629d4002cd4bcb80</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>pa_m2m_dashboard_tabs_a6fd7e661b79d010629d4002cd4bcbaf</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:14:20</sys_updated_on>
+        <tab display_value="PRS desk booking sys - New Tab 2">e6fd7e661b79d010629d4002cd4bcbad</tab>
+    </pa_m2m_dashboard_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>pa_m2m_dashboard_tabs_a6fd7e661b79d010629d4002cd4bcbaf</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_m2m_dashboard_tabs"><pa_m2m_dashboard_tabs action="INSERT_OR_UPDATE"><dashboard display_value="PRS desk booking system stats">981b2a221b39d010629d4002cd4bcb80</dashboard><home>false</home><homepage/><order>2</order><sys_class_name>pa_m2m_dashboard_tabs</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-07-07 15:14:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path/><sys_id>a6fd7e661b79d010629d4002cd4bcbaf</sys_id><sys_mod_count>0</sys_mod_count><sys_name>981b2a221b39d010629d4002cd4bcb80</sys_name><sys_overrides/><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>pa_m2m_dashboard_tabs_a6fd7e661b79d010629d4002cd4bcbaf</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-07-07 15:14:20</sys_updated_on><tab display_value="PRS desk booking sys - New Tab 2">e6fd7e661b79d010629d4002cd4bcbad</tab></pa_m2m_dashboard_tabs></record_update>]]></payload>
+        <payload_hash>353956930</payload_hash>
+        <record_name>981b2a221b39d010629d4002cd4bcb80</record_name>
+        <reverted_from/>
+        <source>b9301a661bb5d010629d4002cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 15:14:20</sys_created_on>
+        <sys_id>6efd7e661b79d010629d4002cd4bcbb0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17329d7931e0000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:14:20</sys_updated_on>
+        <type>Dashboard Tab</type>
+        <update_guid>66fd7e66f879d010f4854163cb6729b0</update_guid>
+        <update_guid_history>66fd7e66f879d010f4854163cb6729b0:353956930</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">480ef6e21b79d010629d4002cd4bcbb7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 15:14:26</sys_created_on>
+        <sys_db_object display_value="" name="pa_m2m_dashboard_tabs">pa_m2m_dashboard_tabs</sys_db_object>
+        <sys_id>22df5ec3cf1848c48796be7c9e275510</sys_id>
+        <sys_metadata>a6fd7e661b79d010629d4002cd4bcbaf</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>981b2a221b39d010629d4002cd4bcb80</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent display_value="PRS desk booking system stats">981b2a221b39d010629d4002cd4bcb80</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>pa_m2m_dashboard_tabs_a6fd7e661b79d010629d4002cd4bcbaf</sys_update_name>
+        <sys_update_version display_value="pa_m2m_dashboard_tabs_a6fd7e661b79d010629d4002cd4bcbaf">6efd7e661b79d010629d4002cd4bcbb0</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:14:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_widget">
+    <sp_widget action="INSERT_OR_UPDATE">
+        <category>custom</category>
+        <client_script><![CDATA[function() {
+  /* widget controller */
+  var c = this;
+}]]></client_script>
+        <controller_as>c</controller_as>
+        <css>.layout {&#13;
+  background-color: white;&#13;
+  color: #e80033;&#13;
+  border: 1px solid #e80033;&#13;
+  width: 50%;&#13;
+  position: absolute;&#13;
+  left: 50%;&#13;
+  transform: translate(-50%, -50%);&#13;
+}</css>
+        <data_table>sp_instance</data_table>
+        <demo_data/>
+        <description/>
+        <docs/>
+        <field_list/>
+        <has_preview>false</has_preview>
+        <id>prs_str_layout</id>
+        <internal>false</internal>
+        <link><![CDATA[function link(scope, element, attrs, controller) {  }]]></link>
+        <name>PRS STR Layout</name>
+        <option_schema/>
+        <public>false</public>
+        <roles/>
+        <script><![CDATA[(function() {  /* populate the 'data' object */  /* e.g., data.table = $sp.getValue('table'); */})();]]></script>
+        <servicenow>false</servicenow>
+        <sys_class_name>sp_widget</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-25 15:25:07</sys_created_on>
+        <sys_id>6f5d413a1be51c10629d4002cd4bcb22</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>PRS STR Layout</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_widget_6f5d413a1be51c10629d4002cd4bcb22</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-02 14:40:52</sys_updated_on>
+        <template><![CDATA[<div>
+<a href="javascript:void(0)" class="btn btn-primary layout" onClick="popup=window.open('/sys_attachment.do?sys_id=1b949d321b291c10629d4002cd4bcb89&view=true','popup','width=1280,height=720'); return false;">Check desk layout</a>
+</div>]]></template>
+    </sp_widget>
+</record_update>

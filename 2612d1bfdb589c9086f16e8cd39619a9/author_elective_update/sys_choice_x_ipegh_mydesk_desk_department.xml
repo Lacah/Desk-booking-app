@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="department" table="x_ipegh_mydesk_desk" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <name>x_ipegh_mydesk_desk</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:05:44</sys_created_on>
+            <sys_id>2da49a822f1a20101f3faf5df699b66d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>department</sys_name>
+            <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+            <sys_update_name>sys_choice_x_ipegh_mydesk_desk_department</sys_update_name>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:05:44</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Business &amp; Legal Affairs</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:05:44</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5f9adcaa1be1d810629d4002cd4bcbdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:05:44</sys_updated_on>
+            <value>business_and_legal_affairs</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Commercial Partnerships</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:06:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3afa1ce61be1d810629d4002cd4bcba9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:06:29</sys_updated_on>
+            <value>commercial_partnerships</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Communications &amp; Marketing</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:06:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>161b54ea1be1d810629d4002cd4bcb81</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:06:59</sys_updated_on>
+            <value>communications_marketing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Contracts Management</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:07:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>983b90e61be1d810629d4002cd4bcb23</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:07:24</sys_updated_on>
+            <value>contracts_management</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Data &amp; Analytics</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:07:48</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ce4b18ea1be1d810629d4002cd4bcb80</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:07:48</sys_updated_on>
+            <value>data_analytics</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Distribution &amp; Operations</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:08:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>c16b98ea1be1d810629d4002cd4bcb2b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:08:16</sys_updated_on>
+            <value>distribution_operations</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Exec PA</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:08:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3d7bd8aa1be1d810629d4002cd4bcb40</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:08:36</sys_updated_on>
+            <value>exec_pa</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Exec Touchdown</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:09:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c9b18ea1be1d810629d4002cd4bcbab</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:09:02</sys_updated_on>
+            <value>exec_touchdown</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>Facilities</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:09:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>339b98ea1be1d810629d4002cd4bcb2f</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-13 14:30:16</sys_updated_on>
+            <value>facilities</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Finance</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:09:28</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6aab1caa1be1d810629d4002cd4bcb00</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:09:28</sys_updated_on>
+            <value>finance</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Foundation</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:10:54</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2ffb18ea1be1d810629d4002cd4bcb86</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:10:54</sys_updated_on>
+            <value>foundation</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Hot Desks</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:11:07</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ee0c5cea1be1d810629d4002cd4bcb63</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:11:07</sys_updated_on>
+            <value>hot_desks</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>HR</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:11:31</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>702c942e1be1d810629d4002cd4bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:11:31</sys_updated_on>
+            <value>hr</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>International</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:11:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>883c18ea1be1d810629d4002cd4bcbb0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:11:45</sys_updated_on>
+            <value>international</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>IT</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:11:56</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2e3c1cea1be1d810629d4002cd4bcb4e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:11:56</sys_updated_on>
+            <value>it</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Licensing</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:12:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5b4c1cea1be1d810629d4002cd4bcb52</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:12:15</sys_updated_on>
+            <value>licensing</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Membership</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:12:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>647c9c2e1be1d810629d4002cd4bcba7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:12:52</sys_updated_on>
+            <value>membership</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Members Fund</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:12:29</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a5cdcea1be1d810629d4002cd4bcb98</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:12:29</sys_updated_on>
+            <value>members_fund</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>true</inactive>
+            <label>NMP</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:13:02</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3a7c1c2e1be1d810629d4002cd4bcbbb</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-07-13 14:30:21</sys_updated_on>
+            <value>nmp</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ORACLE</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:13:11</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>748cdc2e1be1d810629d4002cd4bcbf7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:13:11</sys_updated_on>
+            <value>oracle</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>SOLAR</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:13:24</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8c9c106e1be1d810629d4002cd4bcb05</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:13:24</sys_updated_on>
+            <value>solar</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Strategic Partnerships</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:13:59</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b4bc582e1be1d810629d4002cd4bcbb9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:13:59</sys_updated_on>
+            <value>strategic_partnerships</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Strategy &amp; Office of CEO</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:15:13</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3efc5c2e1be1d810629d4002cd4bcb1f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:15:13</sys_updated_on>
+            <value>strategy_and_office_of_ceo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Transformation</label>
+            <language>en</language>
+            <name>x_ipegh_mydesk_desk</name>
+            <sequence/>
+            <synonyms/>
+            <sys_created_by>LasBal</sys_created_by>
+            <sys_created_on>2020-06-24 17:15:55</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>492d982e1be1d810629d4002cd4bcbe0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>LasBal</sys_updated_by>
+            <sys_updated_on>2020-06-24 17:15:55</sys_updated_on>
+            <value>transformation</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>PRS desk booking sys - New Tab 2</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 15:14:20</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e6fd7e661b79d010629d4002cd4bcbad</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRS desk booking sys - New Tab 2</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>pa_tabs_e6fd7e661b79d010629d4002cd4bcbad</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:14:20</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>pa_tabs_e6fd7e661b79d010629d4002cd4bcbad</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>PRS desk booking sys - New Tab 2</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>LasBal</sys_created_by><sys_created_on>2020-07-07 15:14:20</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>e6fd7e661b79d010629d4002cd4bcbad</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PRS desk booking sys - New Tab 2</sys_name><sys_overrides/><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>pa_tabs_e6fd7e661b79d010629d4002cd4bcbad</sys_update_name><sys_updated_by>LasBal</sys_updated_by><sys_updated_on>2020-07-07 15:14:20</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>104032181</payload_hash>
+        <record_name>PRS desk booking sys - New Tab 2</record_name>
+        <reverted_from/>
+        <source>b9301a661bb5d010629d4002cd4bcb20</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 15:14:26</sys_created_on>
+        <sys_id>800ebe661b79d010629d4002cd4bcb35</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17329d7aad10000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:14:26</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>66fd7e66da79d01012fe25e1b3dc87ae</update_guid>
+        <update_guid_history>66fd7e66da79d01012fe25e1b3dc87ae:1051552791,66fd7e66da79d01012fe25e1b3dc87ae:1051552791,66fd7e66da79d01012fe25e1b3dc87ae:1051552791</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">440ebe661b79d010629d4002cd4bcb3a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-07 15:14:26</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>058bbc8de06b48db81169b55c3bfc239</sys_id>
+        <sys_metadata>e6fd7e661b79d010629d4002cd4bcbad</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PRS desk booking sys - New Tab 2</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>pa_tabs_e6fd7e661b79d010629d4002cd4bcbad</sys_update_name>
+        <sys_update_version display_value="pa_tabs_e6fd7e661b79d010629d4002cd4bcbad">800ebe661b79d010629d4002cd4bcb35</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-07 15:14:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

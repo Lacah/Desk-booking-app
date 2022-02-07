@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance_link">
+    <sp_instance_link action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>warning</color>
+        <css/>
+        <glyph>bell-o</glyph>
+        <id/>
+        <kb_article/>
+        <kb_category/>
+        <kb_topic/>
+        <order>1</order>
+        <roles/>
+        <sc_cat_item/>
+        <sc_category/>
+        <short_description>Publish announcements for users</short_description>
+        <size>md</size>
+        <sp_column display_value="3">96ac86061bc99050629d4002cd4bcb0d</sp_column>
+        <sp_page display_value="mydesk_announcements">d72adac21b0d9050629d4002cd4bcb2f</sp_page>
+        <sp_widget display_value="Icon Link">3caa67afcb13020000f8d856634c9c2e</sp_widget>
+        <sys_class_name>sp_instance_link</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-29 15:41:46</sys_created_on>
+        <sys_id>904e42861bc99050629d4002cd4bcb3d</sys_id>
+        <sys_mod_count>6</sys_mod_count>
+        <sys_name>Announcements</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_link_904e42861bc99050629d4002cd4bcb3d</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-08 14:03:49</sys_updated_on>
+        <title>Announcements</title>
+        <type>page</type>
+        <url>sp?id=mydesk_announcements&amp;table=announcement&amp;sys_id=-1&amp;view=sp</url>
+        <widget_parameters><![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]></widget_parameters>
+    </sp_instance_link>
+    <sys_translated_text action="DELETE" query="documentkey=904e42861bc99050629d4002cd4bcb3d"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_instance_link_904e42861bc99050629d4002cd4bcb3d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance_link"&gt;&lt;sp_instance_link action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;warning&lt;/color&gt;&lt;css/&gt;&lt;glyph&gt;bell-o&lt;/glyph&gt;&lt;id/&gt;&lt;kb_article/&gt;&lt;kb_category/&gt;&lt;kb_topic/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;sc_cat_item/&gt;&lt;sc_category/&gt;&lt;short_description&gt;Publish announcements for users&lt;/short_description&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="3"&gt;96ac86061bc99050629d4002cd4bcb0d&lt;/sp_column&gt;&lt;sp_page display_value="mydesk_announcements"&gt;d72adac21b0d9050629d4002cd4bcb2f&lt;/sp_page&gt;&lt;sp_widget display_value="Icon Link"&gt;3caa67afcb13020000f8d856634c9c2e&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance_link&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-29 15:41:46&lt;/sys_created_on&gt;&lt;sys_id&gt;904e42861bc99050629d4002cd4bcb3d&lt;/sys_id&gt;&lt;sys_mod_count&gt;6&lt;/sys_mod_count&gt;&lt;sys_name&gt;Announcements&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_link_904e42861bc99050629d4002cd4bcb3d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-06-08 14:03:49&lt;/sys_updated_on&gt;&lt;title&gt;Announcements&lt;/title&gt;&lt;type&gt;page&lt;/type&gt;&lt;url&gt;sp?id=mydesk_announcements&amp;amp;table=announcement&amp;amp;sys_id=-1&amp;amp;view=sp&lt;/url&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"link_template": {
+		"value": "Top Icon",
+		"displayValue": "Top Icon"
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance_link&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=904e42861bc99050629d4002cd4bcb3d"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1577287947</payload_hash>
+        <record_name>Announcements</record_name>
+        <reverted_from/>
+        <source>02de1a89db49985086f16e8cd3961957</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-06-08 14:03:49</sys_created_on>
+        <sys_id>97b759d91b51d410629d4002cd4bcb2f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>172943e99170000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-06-08 14:03:49</sys_updated_on>
+        <type>Instance with Link</type>
+        <update_guid>1fb759d90251d410a91fc31a71b4ae2e</update_guid>
+        <update_guid_history>1fb759d90251d410a91fc31a71b4ae2e:-1577287947,f70791993151d410ff95fe512de5102c:1511750019,48fad206fa0d905031c9f5b176b0a732:105209008,426f02c622c99050b7af59dcd2ef9b61:1489422572,ab2fce8670c99050f8afb21e0580b24b:573240400,00ee8a8685c99050d4883fdd7bd4f9b6:-799175406,d44e4286bdc990507d322ef4d1c4883e:-577013018</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">9884c9571bb19410629d4002cd4bcbd2</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-07-09 14:19:03</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance_link">sp_instance_link</sys_db_object>
+        <sys_id>36eadadfd4b244598e17f42c67ce1331</sys_id>
+        <sys_metadata>904e42861bc99050629d4002cd4bcb3d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Announcements</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_instance_link_904e42861bc99050629d4002cd4bcb3d</sys_update_name>
+        <sys_update_version display_value="sp_instance_link_904e42861bc99050629d4002cd4bcb3d">97b759d91b51d410629d4002cd4bcb2f</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-07-09 14:19:03</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

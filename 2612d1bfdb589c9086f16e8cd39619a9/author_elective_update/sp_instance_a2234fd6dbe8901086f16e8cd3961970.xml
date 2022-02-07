@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sp_instance">
+    <sp_instance action="DELETE">
+        <active>true</active>
+        <class_name/>
+        <color>default</color>
+        <css/>
+        <glyph/>
+        <id/>
+        <order>1</order>
+        <roles/>
+        <short_description/>
+        <size>md</size>
+        <sp_column display_value="1">71234b1adbe8901086f16e8cd39619e8</sp_column>
+        <sp_widget display_value="Image Link">86776e0453331300a699ddeeff7b12be</sp_widget>
+        <sys_class_name>sp_instance</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 17:40:02</sys_created_on>
+        <sys_id>a2234fd6dbe8901086f16e8cd3961970</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>Book a desk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>sp_instance_a2234fd6dbe8901086f16e8cd3961970</sys_update_name>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:42:08</sys_updated_on>
+        <title>Book a desk</title>
+        <url/>
+        <widget_parameters><![CDATA[{
+	"image": {
+		"value": "empty-office.jpg",
+		"displayValue": "empty-office.jpg"
+	},
+	"title": {
+		"value": "Book a desk",
+		"displayValue": "Book a desk"
+	},
+	"description": {
+		"value": "Find and reserve a free desk for your office stay",
+		"displayValue": "Find and reserve a free desk for your office stay"
+	},
+	"link": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]></widget_parameters>
+    </sp_instance>
+    <sys_translated_text action="DELETE" query="documentkey=a2234fd6dbe8901086f16e8cd3961970"/>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>sp_instance_a2234fd6dbe8901086f16e8cd3961970</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sp_instance"&gt;&lt;sp_instance action="INSERT_OR_UPDATE"&gt;&lt;active&gt;true&lt;/active&gt;&lt;class_name/&gt;&lt;color&gt;default&lt;/color&gt;&lt;css/&gt;&lt;glyph/&gt;&lt;id/&gt;&lt;order&gt;1&lt;/order&gt;&lt;roles/&gt;&lt;short_description/&gt;&lt;size&gt;md&lt;/size&gt;&lt;sp_column display_value="1"&gt;71234b1adbe8901086f16e8cd39619e8&lt;/sp_column&gt;&lt;sp_widget display_value="Image Link"&gt;86776e0453331300a699ddeeff7b12be&lt;/sp_widget&gt;&lt;sys_class_name&gt;sp_instance&lt;/sys_class_name&gt;&lt;sys_created_by&gt;LasBal&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2020-05-05 17:40:02&lt;/sys_created_on&gt;&lt;sys_id&gt;a2234fd6dbe8901086f16e8cd3961970&lt;/sys_id&gt;&lt;sys_mod_count&gt;2&lt;/sys_mod_count&gt;&lt;sys_name&gt;Book a desk&lt;/sys_name&gt;&lt;sys_package display_value="MyDesk" source="x_ipegh_mydesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="MyDesk"&gt;2612d1bfdb589c9086f16e8cd39619a9&lt;/sys_scope&gt;&lt;sys_update_name&gt;sp_instance_a2234fd6dbe8901086f16e8cd3961970&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;LasBal&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2020-05-05 17:42:08&lt;/sys_updated_on&gt;&lt;title&gt;Book a desk&lt;/title&gt;&lt;url/&gt;&lt;widget_parameters&gt;&lt;![CDATA[{
+	"image": {
+		"value": "empty-office.jpg",
+		"displayValue": "empty-office.jpg"
+	},
+	"title": {
+		"value": "Book a desk",
+		"displayValue": "Book a desk"
+	},
+	"description": {
+		"value": "Find and reserve a free desk for your office stay",
+		"displayValue": "Find and reserve a free desk for your office stay"
+	},
+	"link": {
+		"value": "",
+		"displayValue": ""
+	},
+	"link_title": {
+		"value": "",
+		"displayValue": ""
+	}
+}]]&gt;&lt;/widget_parameters&gt;&lt;/sp_instance&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=a2234fd6dbe8901086f16e8cd3961970"/&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>1577973969</payload_hash>
+        <record_name>Book a desk</record_name>
+        <reverted_from/>
+        <source>74c71937db989c9086f16e8cd396195a</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 17:42:08</sys_created_on>
+        <sys_id>29a3435adbe8901086f16e8cd3961909</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>171e5ee40920000001</sys_recorded_at>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:42:08</sys_updated_on>
+        <type>Instance</type>
+        <update_guid>e5a34fd6ade890107b2e0a3072d6bc8d</update_guid>
+        <update_guid_history>e5a34fd6ade890107b2e0a3072d6bc8d:1577973969,6b33cb1a75e890107dbb551883a6fd75:1702094075,3e234fd6e5e890108704450a98b3c171:1565787753</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">37d3435adbe8901086f16e8cd3961911</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2020-05-05 17:43:07</sys_created_on>
+        <sys_db_object display_value="" name="sp_instance">sp_instance</sys_db_object>
+        <sys_id>0e780d101feb47b0a81439762aa7a3c4</sys_id>
+        <sys_metadata>a2234fd6dbe8901086f16e8cd3961970</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Book a desk</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>sp_instance_a2234fd6dbe8901086f16e8cd3961970</sys_update_name>
+        <sys_update_version display_value="sp_instance_a2234fd6dbe8901086f16e8cd3961970">29a3435adbe8901086f16e8cd3961909</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2020-05-05 17:43:07</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

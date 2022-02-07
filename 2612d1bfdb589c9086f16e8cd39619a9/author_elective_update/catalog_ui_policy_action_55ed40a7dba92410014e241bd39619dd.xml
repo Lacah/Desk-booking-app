@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action">
+    <catalog_ui_policy_action action="DELETE">
+        <catalog_item display_value="Book a desk">0e0ec65cdb6810d086f16e8cd396195b</catalog_item>
+        <catalog_variable>IO:dff2de90dba810d086f16e8cd3961908</catalog_variable>
+        <cleared>true</cleared>
+        <disabled>true</disabled>
+        <field/>
+        <mandatory>ignore</mandatory>
+        <order>100</order>
+        <sys_class_name>catalog_ui_policy_action</sys_class_name>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2021-01-12 14:54:34</sys_created_on>
+        <sys_id>55ed40a7dba92410014e241bd39619dd</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>booking_from</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_update_name>catalog_ui_policy_action_55ed40a7dba92410014e241bd39619dd</sys_update_name>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2021-01-12 14:57:42</sys_updated_on>
+        <table/>
+        <ui_policy display_value="Clear booking from">af606fda1b456c50629d4002cd4bcb5a</ui_policy>
+        <variable>booking_from</variable>
+        <variable_set/>
+        <visible>ignore</visible>
+    </catalog_ui_policy_action>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</application>
+        <file_path/>
+        <instance_id>db1a7abcdbcc445049eac59705961913</instance_id>
+        <instance_name>iceservicesdev</instance_name>
+        <name>catalog_ui_policy_action_55ed40a7dba92410014e241bd39619dd</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="catalog_ui_policy_action"><catalog_ui_policy_action action="INSERT_OR_UPDATE"><catalog_item display_value="Book a desk">0e0ec65cdb6810d086f16e8cd396195b</catalog_item><catalog_variable>IO:dff2de90dba810d086f16e8cd3961908</catalog_variable><cleared>true</cleared><disabled>true</disabled><field/><mandatory>ignore</mandatory><order>100</order><sys_class_name>catalog_ui_policy_action</sys_class_name><sys_created_by>AnnAal</sys_created_by><sys_created_on>2021-01-12 14:54:34</sys_created_on><sys_id>55ed40a7dba92410014e241bd39619dd</sys_id><sys_mod_count>1</sys_mod_count><sys_name>booking_from</sys_name><sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package><sys_policy/><sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope><sys_update_name>catalog_ui_policy_action_55ed40a7dba92410014e241bd39619dd</sys_update_name><sys_updated_by>AnnAal</sys_updated_by><sys_updated_on>2021-01-12 14:57:42</sys_updated_on><table/><ui_policy display_value="Clear booking from">af606fda1b456c50629d4002cd4bcb5a</ui_policy><variable>booking_from</variable><variable_set/><visible>ignore</visible></catalog_ui_policy_action></record_update>]]></payload>
+        <payload_hash>-854799714</payload_hash>
+        <record_name>booking_from</record_name>
+        <reverted_from/>
+        <source>cd2a52fc1b83d410629d4002cd4bcb4b</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>AnnAal</sys_created_by>
+        <sys_created_on>2021-01-12 14:57:42</sys_created_on>
+        <sys_id>39ae8ca7dba92410014e241bd3961932</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>176f71a435f0000001</sys_recorded_at>
+        <sys_updated_by>AnnAal</sys_updated_by>
+        <sys_updated_on>2021-01-12 14:57:42</sys_updated_on>
+        <type>Catalog UI Policy Action</type>
+        <update_guid>bdae8ca7e9a9241055e171bbd9dbc031</update_guid>
+        <update_guid_history>bdae8ca7e9a9241055e171bbd9dbc031:-854799714,40fdcc67dfa92410170a500df58c0a37:-1502695419</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="">53ea7eb4dbd2a410014e241bd39619df</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>LasBal</sys_created_by>
+        <sys_created_on>2021-02-10 21:14:10</sys_created_on>
+        <sys_db_object display_value="" name="catalog_ui_policy_action">catalog_ui_policy_action</sys_db_object>
+        <sys_id>1f6c6c61de9f4b2a8a6b676b25dcd1a1</sys_id>
+        <sys_metadata>55ed40a7dba92410014e241bd39619dd</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>booking_from</sys_name>
+        <sys_package display_value="MyDesk" source="x_ipegh_mydesk">2612d1bfdb589c9086f16e8cd39619a9</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="MyDesk">2612d1bfdb589c9086f16e8cd39619a9</sys_scope>
+        <sys_scope_delete display_value="">036d367eb26b40ee8193cca9f15074e4</sys_scope_delete>
+        <sys_update_name>catalog_ui_policy_action_55ed40a7dba92410014e241bd39619dd</sys_update_name>
+        <sys_update_version display_value="catalog_ui_policy_action_55ed40a7dba92410014e241bd39619dd">39ae8ca7dba92410014e241bd3961932</sys_update_version>
+        <sys_updated_by>LasBal</sys_updated_by>
+        <sys_updated_on>2021-02-10 21:14:10</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
